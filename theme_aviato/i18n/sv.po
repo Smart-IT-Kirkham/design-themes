@@ -5,6 +5,7 @@
 # Translators:
 # Lasse L, 2023
 # Anders Wallenquist <anders.wallenquist@vertel.se>, 2024
+# Jakob Krabbe <jakob.krabbe@vertel.se>, 2024
 # 
 msgid ""
 msgstr ""
@@ -12,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:21+0000\n"
 "PO-Revision-Date: 2023-10-27 15:39+0000\n"
-"Last-Translator: Anders Wallenquist <anders.wallenquist@vertel.se>, 2024\n"
+"Last-Translator: Jakob Krabbe <jakob.krabbe@vertel.se>, 2024\n"
 "Language-Team: Swedish (https://app.transifex.com/odoo/teams/41243/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,26 +27,28 @@ msgid ""
 "<b>A travel agent helps you to plan your <br/> trip from start to finish.</b>\n"
 "        <br/>"
 msgstr ""
+"<b>En resebyrå hjälper dig att planera din <br/> resa från början till slut.</b>\n"
+"        <br/>"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_quotes_carousel
 msgid "<b>Jacques and Marie</b> • From France"
-msgstr ""
+msgstr "<b>Jacques och Marie</b> • Från Frankrike"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_quotes_carousel
 msgid "<b>Linda and Paulo</b> • From Italy"
-msgstr ""
+msgstr "<b>Linda och Paulo</b> • Från Italien"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_quotes_carousel
 msgid "<b>Rose and Peter</b> • From United Kingdom"
-msgstr ""
+msgstr "<b>Rose och Peter</b> • Från Storbritannien"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_picture
 msgid "<em>Odoo Travel New York</em>"
-msgstr ""
+msgstr "<em>Odoo Travel New York</em>"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_three_columns
@@ -54,6 +57,9 @@ msgid ""
 "Italy’s hot-blooded capital is one of the world’s most romantic and "
 "charismatic cities."
 msgstr ""
+"Italiens varmblodiga huvudstad är en berusande blandning av hemsökta ruiner,"
+" imponerande konst och pulserande gatuliv och är en av världens mest "
+"romantiska och karismatiska städer."
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_quotes_carousel
@@ -63,6 +69,10 @@ msgid ""
 "visited were beautiful, people were friendly, everything we ate was "
 "delicious, and there were many fun things to see and do."
 msgstr ""
+"Som alltid har Odoo Travel levererat en riktigt härlig reseupplevelse för "
+"oss. Norge var ett fantastiskt resmål. De delar av landet som vi besökte var"
+" vackra, människorna var vänliga, allt vi åt var utsökt och det fanns många "
+"roliga saker att se och göra."
 
 #. module: theme_aviato
 #. odoo-javascript
@@ -75,22 +85,22 @@ msgstr "Bakgrund Form"
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_three_columns
 msgid "Book now"
-msgstr ""
+msgstr "Boka nu"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_popup
 msgid "Check out now and get $200 off your first booking."
-msgstr ""
+msgstr "Kolla in nu och få $ 200 rabatt på din första bokning."
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_features
 msgid "Flight Booking"
-msgstr ""
+msgstr "Bokning av flyg"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_features
 msgid "Hotel Booking"
-msgstr ""
+msgstr "Hotellbokning"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_quotes_carousel
@@ -100,11 +110,15 @@ msgid ""
 "sounds, architecture, art, food, history, and people that we came across. "
 "Ireland was fantastic."
 msgstr ""
+"Det är svårt att beskriva hur fantastisk resan var. Det känns som om mitt "
+"liv har förändrats för alltid. Det skulle ta för lång tid att dag för dag "
+"beskriva sevärdheter, ljud, arkitektur, konst, mat, historia och människor "
+"som vi mötte. Irland var fantastiskt."
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_image_text
 msgid "Itinerary Planning"
-msgstr ""
+msgstr "Planering av resväg"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_text_image
@@ -114,11 +128,15 @@ msgid ""
 "neighborhood hangouts, bars, pubs, the best. beaches and places to visit and"
 " not to see."
 msgstr ""
+"Vårt team reser över hela världen för att ge våra kunder förstahandskunskap "
+"om kommande destinationer, nya \"heta\" hotell och fartyg, lokala "
+"restauranger, kvarterskrogar, barer, pubar, de bästa stränderna och platser "
+"att besöka och inte se."
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_picture
 msgid "Our travel agencies"
-msgstr ""
+msgstr "Våra resebyråer"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_image_text
@@ -127,6 +145,9 @@ msgid ""
 "No matter the type of trip you have in mind, we have the resources and "
 "expertise necessary to create the perfect trip"
 msgstr ""
+"Vår vision är att göra reseplaneringen stressfri och göra resandet roligare."
+" Oavsett vilken typ av resa du har i åtanke har vi de resurser och den "
+"expertis som krävs för att skapa den perfekta resan"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_three_columns
@@ -139,16 +160,18 @@ msgid ""
 "Paris' monument-lined boulevards, museums, classical bistros and boutiques "
 "are enhanced by a new wave of multimedia galleries, creative wine bars..."
 msgstr ""
+"Paris monumentkantade boulevarder, museer, klassiska bistroer och butiker "
+"kompletteras av en ny våg av multimediagallerier, kreativa vinbarer..."
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_cover
 msgid "Plan your trip with us"
-msgstr ""
+msgstr "Planera din resa med oss"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_three_columns
 msgid "Prague"
-msgstr ""
+msgstr "Prag"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_three_columns
@@ -157,11 +180,14 @@ msgid ""
 "millennium. And the beer? The best in Europe. Prague is the perfect city to "
 "walk around."
 msgstr ""
+"Prag är lika vackert som Paris. Dess historia går tillbaka ett årtusende. "
+"Och ölen? Den bästa i Europa. Prag är den perfekta staden att promenera runt"
+" i."
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_three_columns
 msgid "Rome"
-msgstr ""
+msgstr "Rom"
 
 #. module: theme_aviato
 #: model:ir.model,name:theme_aviato.model_theme_utils
@@ -171,22 +197,22 @@ msgstr "Verktyg för teman"
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_features
 msgid "Ticket Booking"
-msgstr ""
+msgstr "Biljettbokning"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_title
 msgid "Top Destinations"
-msgstr ""
+msgstr "Bästa resmålen"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_popup
 msgid "Travel Now"
-msgstr ""
+msgstr "Res nu"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_cover
 msgid "Travel to any corner <br/>of the world"
-msgstr ""
+msgstr "Res till världens alla hörn"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_quotes_carousel
@@ -195,28 +221,31 @@ msgid ""
 "Delhi, Agra and Rajasthan. Everything was very well organised. Thank you "
 "very much for everything!"
 msgstr ""
+"Vi vill tacka Odoo Travel för att ha organiserat en underbar turné för oss i"
+" Delhi, Agra och Rajasthan. Allt var mycket välorganiserat. Tack så mycket "
+"för allt!"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_text_image
 msgid "What we can do, <b>for you</b>"
-msgstr ""
+msgstr "Vad vi kan göra, <b>för dig</b>"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_popup
 msgid "Win 200$"
-msgstr ""
+msgstr "Vinn 200 $"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_three_columns
 msgid "s_three_columns_1"
-msgstr ""
+msgstr "s_tre_kolumner_1"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_three_columns
 msgid "s_three_columns_2"
-msgstr ""
+msgstr "s_tre_kolumner_2"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_three_columns
 msgid "s_three_columns_3"
-msgstr ""
+msgstr "s_tre_kolumner_3"
