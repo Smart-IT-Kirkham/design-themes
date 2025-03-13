@@ -156,7 +156,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_three_columns
 msgid "Re-edition"
-msgstr ""
+msgstr "Uus väljaanne"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template

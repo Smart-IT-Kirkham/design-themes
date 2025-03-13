@@ -49,7 +49,7 @@ msgstr "Minust"
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
 msgid "Aquitani"
-msgstr ""
+msgstr "Aquitani"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_comparisons
@@ -102,7 +102,7 @@ msgstr ""
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
 msgid "Immemorabili"
-msgstr ""
+msgstr "Aegade algusest"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_title
@@ -127,7 +127,7 @@ msgstr "Rohkem informatsiooni"
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
 msgid "My artistic process"
-msgstr ""
+msgstr " Minu kunstiline protsess"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
@@ -149,7 +149,7 @@ msgstr "Theme Utils"
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
 msgid "Vincam"
-msgstr ""
+msgstr "Ma võidan"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_text_image
