@@ -251,7 +251,7 @@ msgstr ""
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_cover
 msgid "Discover More"
-msgstr ""
+msgstr "גלה עוד"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_key_images

@@ -6,7 +6,7 @@
 # Rosen Vladimirov <vladimirov.rosen@gmail.com>, 2024
 # Margarita Katzeva, 2024
 # Milena Georgieva, 2024
-# Veselina Slavkova, 2024
+# Veselina Slavkova, 2025
 # Martin Dinovski, 2025
 # 
 msgid ""
@@ -170,7 +170,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/theme_odoo_experts/static/src/js/tour.js:0
 msgid "Background Shape"
-msgstr ""
+msgstr "Форма на фона"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_quadrant
@@ -291,7 +291,7 @@ msgstr ""
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_key_benefits
 msgid "Exclusive Insights"
-msgstr ""
+msgstr "Ексклузивни прозрения"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_product_list
@@ -420,7 +420,7 @@ msgstr ""
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_key_benefits
 msgid "Ongoing Support"
-msgstr ""
+msgstr "Текуща поддръжка"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_quadrant

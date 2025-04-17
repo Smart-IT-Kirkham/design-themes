@@ -60,22 +60,22 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
 msgid "$184.00"
-msgstr ""
+msgstr "$184.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
 msgid "$200.00"
-msgstr ""
+msgstr "$200.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
 msgid "$349.00"
-msgstr ""
+msgstr "$349.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
 msgid "$350.00"
-msgstr ""
+msgstr "$350.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -90,22 +90,22 @@ msgstr "$600.00"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
 msgid "$700.00"
-msgstr ""
+msgstr "$700.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
 msgid "$80.00"
-msgstr ""
+msgstr "$80.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
 msgid "$850.00"
-msgstr ""
+msgstr "$850.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
 msgid "$859.00"
-msgstr ""
+msgstr "$859.00"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
@@ -115,7 +115,7 @@ msgstr "24/7 Wsparcie"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_big_number
 msgid "250+"
-msgstr ""
+msgstr "250+"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_title
@@ -128,6 +128,8 @@ msgid ""
 "<br/>Color trends are already waiting to spring into action for the  next "
 "summer.<br/>"
 msgstr ""
+"<br/>Kolorystyczne trendy już czekają, aby wkroczyć do akcji nadchodzącego "
+"lata.<br/>"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_empowerment
@@ -249,7 +251,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features_wall
 msgid "Detailed Project Management"
-msgstr ""
+msgstr "Szczegółowe zarządzanie projektem"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cover
@@ -259,7 +261,7 @@ msgstr "Odkryj więcej"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_text_cover
 msgid "Discover it"
-msgstr ""
+msgstr "Odkrywaj więcej"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cards_grid
@@ -374,6 +376,8 @@ msgid ""
 "Experience seamless project execution with meticulous planning, budgeting, "
 "and oversight from concept to completion."
 msgstr ""
+"Ciesz się płynną realizacją projektów dzięki skrupulatnemu planowaniu, "
+"budżetowaniu i nadzorowi od koncepcji do ukończenia."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cards_grid
@@ -470,7 +474,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features_wall
 msgid "Innovative Design Solutions"
-msgstr ""
+msgstr "Innowacyjne rozwiązania budowlane"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_quotes_carousel
@@ -549,7 +553,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_wavy_grid
 msgid "Quality and Craftsmanship"
-msgstr ""
+msgstr "Jakość i rzemiosło"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -598,7 +602,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features_wall
 msgid "Sustainable Building Practices"
-msgstr ""
+msgstr "Zrównoważone praktyki budowlane"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_wavy_grid
@@ -694,6 +698,9 @@ msgid ""
 "Transform your vision into reality with cutting-edge architectural designs "
 "tailored to your unique needs and aesthetic preferences."
 msgstr ""
+"Przekuj swoją wizję w rzeczywistość z najnowocześniejszymi projektami "
+"architektonicznymi dostosowanymi do Twoich indywidualnych potrzeb i "
+"preferencji estetycznych."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_empowerment
@@ -741,7 +748,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_wavy_grid
 msgid "What we offer to our clients"
-msgstr ""
+msgstr "Co oferujemy naszym klientom"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_three_columns

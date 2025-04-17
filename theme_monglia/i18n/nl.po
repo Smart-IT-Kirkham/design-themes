@@ -506,8 +506,8 @@ msgid ""
 "Experience the excitement of our upcoming festivals with a diverse range of "
 "music, arts, and culture. Don’t miss out on these unforgettable events!"
 msgstr ""
-"Beleef de opwinding van onze komende festivals met een gevarieerd aanbod aan"
-" muziek, kunst en cultuur. Mis deze onvergetelijke evenementen niet!"
+"Beleef de opwinding van onze aankomende festivals met een gevarieerd aanbod "
+"aan muziek, kunst en cultuur. Mis deze onvergetelijke evenementen niet!"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_quadrant
@@ -910,7 +910,7 @@ msgstr "Unieke ervaringen"
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "Upcoming Festivals"
-msgstr "Komende festivals"
+msgstr "Aankomende festivals"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_cta_box

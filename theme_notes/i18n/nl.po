@@ -211,7 +211,7 @@ msgid ""
 msgstr ""
 "<span class=\"o_text_highlight o_text_highlight_underline "
 "o_translate_inline\" style=\"--text-highlight-width: 4px; --text-highlight-"
-"color: var(--o-color-4);\">Komende concerten</span>"
+"color: var(--o-color-4);\">Aankomende concerten</span>"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_text_image
@@ -495,7 +495,7 @@ msgstr "Ontdek het nieuwe album live."
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cta_box
 msgid "Discover upcoming<br/>concerts in your area"
-msgstr "Ontdek de komende<br/>concerten bij jou in de buurt"
+msgstr "Ontdek de aankomende<br/>concerten bij jou in de buurt"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
@@ -1281,7 +1281,7 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "Upcoming Festivals"
-msgstr "Komende festivals"
+msgstr "Aankomende festivals"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
