@@ -5,6 +5,7 @@
 # Translators:
 # Wil Odoo, 2024
 # Jiří Podhorecký <jirka.p@volny.cz>, 2024
+# Marta Wacławek, 2025
 # 
 msgid ""
 msgstr ""
@@ -12,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-07 13:28+0000\n"
 "PO-Revision-Date: 2024-09-25 18:03+0000\n"
-"Last-Translator: Jiří Podhorecký <jirka.p@volny.cz>, 2024\n"
+"Last-Translator: Marta Wacławek, 2025\n"
 "Language-Team: Czech (https://app.transifex.com/odoo/teams/41243/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -44,7 +45,7 @@ msgstr ""
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_pricelist_boxed
 msgid "$100.00"
-msgstr ""
+msgstr "$100.00"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_pricelist_boxed
@@ -59,7 +60,7 @@ msgstr ""
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_pricelist_boxed
 msgid "$25.00"
-msgstr ""
+msgstr "$25.00"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_pricelist_boxed
@@ -69,7 +70,7 @@ msgstr ""
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_pricelist_boxed
 msgid "$50.00"
-msgstr ""
+msgstr "$50.00"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_text_image
@@ -198,6 +199,8 @@ msgid ""
 "Deeply hydrating facial treatment that restores moisture and balances your "
 "skin, perfect for dry or sensitive skin types."
 msgstr ""
+"Hluboce hydratační ošetření obličeje, které obnovuje vlhkost a vyrovnává "
+"pleť, ideální pro suchý nebo citlivý typ pleti."
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_quadrant
@@ -581,7 +584,7 @@ msgstr ""
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_cta_box
 msgid "Shop now"
-msgstr ""
+msgstr "Nakoupit teď"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_text_cover
