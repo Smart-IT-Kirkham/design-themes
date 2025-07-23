@@ -30,6 +30,8 @@ msgid ""
 "\" A go-to partner for stylish growth. <br/>Creative, timely, and ahead of "
 "the fashion game. \""
 msgstr ""
+"\" Şık bir büyüme için başvurulacak iş ortağı. <br/>Yaratıcı, zamanında ve "
+"modanın hep bir adım önünde. \""
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_quotes_carousel_minimal
@@ -37,12 +39,16 @@ msgid ""
 "\" Exceptional quality and service! <br/>They consistently deliver on all "
 "our fashion needs. \""
 msgstr ""
+"\"Olağanüstü kalite ve hizmet! <br/>Moda ihtiyaçlarımızın tamamını her zaman"
+" eksiksiz karşılıyorlar.\""
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_quotes_carousel_minimal
 msgid ""
 "\" Their designs revamped our image. Fashion-forward and always on trend. \""
 msgstr ""
+"\"Tasarımları imajımızı baştan yarattı. Modaya yön veren ve her zaman "
+"trend.\""
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
@@ -52,27 +58,27 @@ msgstr "$120.00"
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "$130.00"
-msgstr ""
+msgstr "$130.00"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "$135.00"
-msgstr ""
+msgstr "$135.00"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "$145.00"
-msgstr ""
+msgstr "$145.00"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "$150.00"
-msgstr ""
+msgstr "$150.00"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "$160.00"
-msgstr ""
+msgstr "$160.00"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_text_cover
@@ -80,6 +86,8 @@ msgid ""
 "<br/>Color trends are already waiting to spring into action for the  next "
 "summer.<br/>"
 msgstr ""
+"<br/>Renk trendleri şimdiden bir sonraki yaz için harekete geçmeye "
+"hazır.<br/>"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_empowerment
@@ -118,6 +126,9 @@ msgid ""
 "<font style=\"background-image: linear-gradient(135deg, var(--o-color-1) 0%,"
 " var(--o-color-2) 100%);\" class=\"text-gradient\">Our top brands</font>"
 msgstr ""
+"<font style=\"background-image: linear-gradient(135deg, var(--o-color-1) 0%,"
+" var(--o-color-2) 100%);\" class=\"text-gradient\">En iyi "
+"markalarımız</font>"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team
@@ -125,6 +136,8 @@ msgid ""
 "<font style=\"background-image: linear-gradient(135deg, var(--o-color-1) 0%, var(--o-color-5) 100%);\" class=\"text-gradient\">Mich Stark</font>\n"
 "        <br/>"
 msgstr ""
+"<font style=\"background-image: linear-gradient(135deg, var(--o-color-1) 0%, var(--o-color-5) 100%);\" class=\"text-gradient\">Mich Stark</font>\n"
+"        <br/>"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team
@@ -159,11 +172,13 @@ msgid ""
 "<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  Enjoy "
 "exclusive deals up to -50% !"
 msgstr ""
+"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  %50’ye "
+"varan özel fırsatlardan yararlanın!"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_image_title
 msgid "A Deep Dive into Style and Innovation"
-msgstr ""
+msgstr "Stil ve yenilikte derin bir keşfe çıkın"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
@@ -171,16 +186,18 @@ msgid ""
 "A beautiful midi dress with vibrant floral prints, designed with a flowing "
 "skirt and fitted bodice, ideal for summer outings."
 msgstr ""
+"Canlı çiçek desenlerine sahip, dökümlü etekli ve oturan üst kesimli midi "
+"elbise; yaz gezileri için ideal bir tasarım."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_key_images
 msgid "A glimpse of elegance and comfort in every piece"
-msgstr ""
+msgstr "Her parçada zarafet ve konforun yansıması"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team_basic
 msgid "Aline Turner"
-msgstr ""
+msgstr "Aline Turner"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team
@@ -196,6 +213,8 @@ msgid ""
 "Are you looking for sustainable clothing for men or women? Discover our "
 "exclusive fashion brand for both of you."
 msgstr ""
+"Erkekler veya kadınlar için sürdürülebilir giyim mi arıyorsunuz? Her ikiniz "
+"için de özel moda markamızı keşfedin."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_call_to_action
@@ -205,12 +224,12 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_shape_image
 msgid "Celebrating diversity in fashion"
-msgstr ""
+msgstr "Modada çeşitliliği kutluyoruz"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "Classic Black Dress"
-msgstr ""
+msgstr "Klasik Siyah Elbise"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
@@ -218,17 +237,21 @@ msgid ""
 "Classic blue denim trucker jacket with a modern fit, featuring button "
 "closures and a slight stretch for comfort."
 msgstr ""
+"Düğmeli kapama detayları ve hafif esnekliğiyle rahatlık sağlayan, modern "
+"kesimli klasik mavi denim kamyoncu ceket."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cover
 msgid "Color Matters"
-msgstr ""
+msgstr "Renk Önemlidir"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_striped_top
 msgid ""
 "Color trends are already waiting to spring into action for the next summer."
 msgstr ""
+"Renk trendleri şimdiden bir sonraki yaz için harekete geçmeye hazır "
+"bekliyor."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cover
@@ -237,6 +260,9 @@ msgid ""
 "        <br/>\n"
 "        <br/>"
 msgstr ""
+"Renk trendleri, gelecek yaz için harekete geçmek üzere sizi bekliyor.\n"
+"        <br/>\n"
+"        <br/>"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_striped_center_top
@@ -246,7 +272,7 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_features_wall
 msgid "Custom Tailoring"
-msgstr ""
+msgstr "Özel Terzi Hizmeti"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_wavy_grid
@@ -254,11 +280,13 @@ msgid ""
 "Customer delight drives us. Our support team is always on hand, ensuring "
 "your fashion journey is smooth and satisfying."
 msgstr ""
+"Müşteri memnuniyeti bizi yönlendirir. Destek ekibimiz her zaman yanınızda; "
+"moda yolculuğunuzun sorunsuz ve tatmin edici geçmesini sağlıyoruz."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "Denim Trucker Jacket"
-msgstr ""
+msgstr "Kot Trucker Ceket"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cards_grid
@@ -266,6 +294,8 @@ msgid ""
 "Designed for the modern individual, our fashion seamlessly transitions from "
 "day to night, offering versatile pieces for any wardrobe."
 msgstr ""
+"Modern bireyler için tasarlanan koleksiyonumuz, gündüzden geceye kolayca "
+"uyum sağlar; her gardıroba uygun çok yönlü parçalar sunar."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cover
@@ -281,7 +311,7 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_call_to_action
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_text_cover
 msgid "Discover it"
-msgstr ""
+msgstr "Keşfet"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_shape_image
@@ -294,17 +324,21 @@ msgid ""
 "Discover our latest fashion pieces with a modern touch. Perfectly crafted "
 "for every style!"
 msgstr ""
+"Modern dokunuşlara sahip en yeni moda parçalarımızı keşfedin. Her stile "
+"mükemmel uyum sağlar!"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cta_box
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_empowerment
 msgid "Discover our new collection,<br/>shop our bestsellers today!"
 msgstr ""
+"Yeni koleksiyonumuzu keşfedin, <br/>en çok satanlarımızı bugün alışverişe "
+"ekleyin!"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_freegrid
 msgid "Discover the Latest Fashion and Fitness Trends"
-msgstr ""
+msgstr "En yeni moda ve fitness trendlerini keşfedin"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_quadrant
@@ -329,6 +363,8 @@ msgid ""
 "Discover the latest trends in fashion, sports, and fitness, designed to "
 "empower your unique style and elevate your active lifestyle."
 msgstr ""
+"Benzersiz tarzınızı güçlendirmek ve aktif yaşamınızı yükseltmek için moda, "
+"spor ve fitness dünyasındaki en son trendleri keşfedin."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_call_to_action
@@ -346,12 +382,12 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_carousel_intro
 msgid "Discover your style"
-msgstr ""
+msgstr "Stilinizi keşfedin"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_references_social
 msgid "Disrupting fashion since 2013"
-msgstr ""
+msgstr "2013’ten beri modayı dönüştürüyoruz"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
@@ -359,12 +395,14 @@ msgid ""
 "Edgy black leather jacket with classic biker details, including zippers, "
 "studs, and an asymmetrical front closure."
 msgstr ""
+"Fermuar, zımba ve asimetrik ön kapama detaylarına sahip, asi tarzda siyah "
+"deri ceket."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team_basic
 msgid "Editor-in-chief"
-msgstr ""
+msgstr "Genel Yayın Yönetmeni"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_features_wall
@@ -372,16 +410,18 @@ msgid ""
 "Elevate your wardrobe with personalized styling advice from our experts, "
 "helping you express your individuality effortlessly."
 msgstr ""
+"Uzmanlarımızdan kişiselleştirilmiş stil önerileriyle gardırobunuzu "
+"yenileyin; tarzınızı zahmetsizce ifade edin."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_quadrant
 msgid "Elevating Fashion Trends"
-msgstr ""
+msgstr "Moda Trendlerini Yükseltin"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_striped_top
 msgid "Embrace Style: Discover the Ultimate Experience in Fashion Excellence"
-msgstr ""
+msgstr "Stili Sahiplenin: Moda Mükemmelliğinde Üst Düzey Deneyimi Keşfedin"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_striped_center_top
@@ -394,6 +434,8 @@ msgid ""
 "Enhance elegance and comfort with our thoughtfully crafted pieces that bring"
 " out the best version of you, every day."
 msgstr ""
+"Zarafeti ve konforu bir araya getiren özenle hazırlanmış parçalarımızla her "
+"gün en iyi halinizi yansıtın."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_references
@@ -407,6 +449,8 @@ msgid ""
 "Experience perfectly fitted clothing with our bespoke tailoring service, "
 "designed to match your unique style and body shape."
 msgstr ""
+"Kişisel tarzınıza ve vücut tipinize özel olarak tasarlanmış, mükemmel uyum "
+"sağlayan terzi dikimi kıyafet deneyimi."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_wavy_grid
@@ -416,12 +460,12 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_quadrant
 msgid "Explore Collections"
-msgstr ""
+msgstr "Koleksiyonları Keşfet"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_freegrid
 msgid "Explore Now"
-msgstr ""
+msgstr "Hemen Keşfet"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_carousel_intro
@@ -429,6 +473,8 @@ msgid ""
 "Explore more and find unique fashion that aligns with your personal style, "
 "crafted for confidence and sophistication."
 msgstr ""
+"Kişisel stilinize uygun, özgün ve şık tasarımları keşfedin. Kendinize güven "
+"katmak için tasarlandı."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_freegrid
@@ -449,7 +495,7 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_images_mosaic
 msgid "Explore our newest styles to elevate your wardrobe."
-msgstr ""
+msgstr "Gardırobunuzu yenileyecek en yeni stillerimizi keşfedin."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_key_images
@@ -469,7 +515,7 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "Floral Midi Dress"
-msgstr ""
+msgstr "Çiçekli Midi Elbise"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team
@@ -489,7 +535,7 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cards_grid
 msgid "Innovative Design"
-msgstr ""
+msgstr "Yenilikçi Tasarım"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_images_mosaic
@@ -499,7 +545,7 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team_basic
 msgid "Iris Joe"
-msgstr ""
+msgstr "Iris Joe"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team
@@ -512,7 +558,7 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "Leather Moto Jacket"
-msgstr ""
+msgstr "Deri Moto Ceket"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
@@ -520,11 +566,13 @@ msgid ""
 "Luxurious satin wrap dress in deep red, with a v-neckline and adjustable "
 "waist tie, perfect for evening events."
 msgstr ""
+"Akşam davetleri için ideal, ayarlanabilir bel bağı ve V yaka detayına sahip,"
+" bordo renkli saten sarmalı elbise."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team_basic
 msgid "Mich Stark"
-msgstr ""
+msgstr "Mich Stark"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team
@@ -542,7 +590,7 @@ msgstr "Daha fazla detay"
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "Our Collection"
-msgstr ""
+msgstr "Koleksiyonumuz"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cards_grid
@@ -550,6 +598,8 @@ msgid ""
 "Our collection captures the essence of timeless elegance, blending classic "
 "designs with modern sophistication for every occasion."
 msgstr ""
+"Koleksiyonumuz klasik tasarımları modern zarafetle harmanlayarak her an için"
+" zamansız bir şıklık sunar."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_key_images
@@ -566,19 +616,19 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_features_wall
 msgid "Personal Styling"
-msgstr ""
+msgstr "Kişiye Özel Stil Danışmanlığı"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team_basic
 msgid "Photograph"
-msgstr ""
+msgstr "Fotoğraf"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team_basic
 msgid "Political Reporter"
-msgstr ""
+msgstr "Siyaset Muhabiri"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cards_grid
@@ -586,6 +636,8 @@ msgid ""
 "Pushing the boundaries of fashion, our innovative designs merge cutting-edge"
 " trends with unparalleled comfort and quality."
 msgstr ""
+"Modanın sınırlarını zorlayan yenilikçi tasarımlarımız, en yeni trendleri "
+"benzersiz konfor ve kaliteyle buluşturuyor."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_wavy_grid
@@ -605,12 +657,12 @@ msgstr "Daha fazla oku"
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_key_images
 msgid "Redefine your wardrobe with our latest styles"
-msgstr ""
+msgstr "Son stillerle gardırobunuzu baştan tanımlayın"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cards_grid
 msgid "Redefining Fashion"
-msgstr ""
+msgstr "Modayı Yeniden Tanımlamak"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_card_offset
@@ -620,12 +672,12 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_references_social
 msgid "Redefining elegance since 2009"
-msgstr ""
+msgstr "2009’dan beri zarafeti yeniden tanımlıyoruz"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_carousel_intro
 msgid "Redefining your style statement"
-msgstr ""
+msgstr "Tarz ifadenizi yeniden tanımlayın"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_color_blocks_2
@@ -633,16 +685,19 @@ msgid ""
 "Refresh your daily rotation with our women’s clothing range. Discover our "
 "last collection for her for the next summer."
 msgstr ""
+"Günlük stilinize yenilik katın. Kadınlara özel yeni yaz koleksiyonumuzu "
+"keşfedin."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_carousel_intro
 msgid "Refresh your look with our exclusive designs and expert styling tips."
 msgstr ""
+"Özgün tasarımlarımız ve uzman stil önerilerimizle görünümünüzü yenileyin."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "Satin Wrap Dress"
-msgstr ""
+msgstr "Saten Sargılı Elbise"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_references_social
@@ -655,17 +710,19 @@ msgid ""
 "Sharp and sophisticated tailored blazer, crafted from high-quality wool, "
 "featuring structured shoulders and a slim fit."
 msgstr ""
+"Yapılandırılmış omuz detayları ve dar kesimiyle yüksek kaliteli yünden "
+"üretilmiş keskin ve sofistike blazer ceket."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_striped_center_top
 msgid "Shop Now"
-msgstr ""
+msgstr "Hemen Satın Al"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cta_box
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_empowerment
 msgid "Shop now"
-msgstr ""
+msgstr "Şimdi Satın Al"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_empowerment
@@ -675,13 +732,13 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_card_offset
 msgid "Shop the looks that define the season."
-msgstr ""
+msgstr "Sezona damgasını vuran görünümleri satın alın"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team_basic
 msgid "Sports Reporter"
-msgstr ""
+msgstr "Spor Muhabiri"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_features_wall
@@ -700,27 +757,27 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_media_list
 msgid "Summer Essentials"
-msgstr ""
+msgstr "Yazın Olmazsa Olmazları"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cards_grid
 msgid "Sustainable Craftsmanship"
-msgstr ""
+msgstr "Sürdürülebilir Zanaatkarlık"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_wavy_grid
 msgid "Sustainable Fashion"
-msgstr ""
+msgstr "Sürdürülebilir Moda"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "Tailored Blazer"
-msgstr ""
+msgstr "Kişiye Özel Ceket"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_wavy_grid
 msgid "Tailored Designs"
-msgstr ""
+msgstr "Kişiye Özel Tasarımlar"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_media_list
@@ -747,7 +804,7 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cards_grid
 msgid "Timeless Elegance"
-msgstr ""
+msgstr "Zamansız Zarafet"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
@@ -755,11 +812,13 @@ msgid ""
 "Timeless black dress with a flattering silhouette, featuring a soft fabric "
 "and elegant neckline, perfect for any occasion."
 msgstr ""
+"Her ortama uygun, yumuşak kumaşı ve zarif yaka kesimiyle öne çıkan, zamansız"
+" bir siyah elbise."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_company_team_basic
 msgid "Tony Fred"
-msgstr ""
+msgstr "Tony Fred"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_image_title
@@ -772,22 +831,22 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_references_social
 msgid "Transforming trends since 2018"
-msgstr ""
+msgstr "2018’den beri trendleri dönüştürüyoruz"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_features_wall
 msgid "Trend Forecasting"
-msgstr ""
+msgstr "Trend Tahmini"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_sidegrid
 msgid "Unleash your potential"
-msgstr ""
+msgstr "Potansiyelinizi ortaya çıkarın"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_image_hexagonal
 msgid "Unvail our <br/>Exclusive <br/>Collections"
-msgstr ""
+msgstr "Özel <br/>Koleksiyonlarımızı <br/>Keşfedin"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cta_box
@@ -797,7 +856,7 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cards_grid
 msgid "Versatile Style"
-msgstr ""
+msgstr "Çok Yönlü Stil"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cards_grid
@@ -805,6 +864,8 @@ msgid ""
 "We are committed to sustainable practices, using eco-friendly materials and "
 "supporting ethical craftsmanship in every piece we create."
 msgstr ""
+"Her ürünümüzde doğa dostu malzemeler kullanarak ve etik üretimi "
+"destekleyerek sürdürülebilir uygulamalara bağlı kalıyoruz."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_wavy_grid
@@ -819,6 +880,8 @@ msgid ""
 "We deliver innovative fashion solutions for today’s demands. Harnessing the "
 "latest trends, we help you set new standards."
 msgstr ""
+"Günümüz ihtiyaçlarına yönelik yenilikçi moda çözümleri sunuyoruz. En son "
+"trendleri kullanarak yeni standartlar belirlemenize yardımcı oluyoruz."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_wavy_grid
@@ -831,6 +894,8 @@ msgid ""
 "With rich experience and fashion expertise, we offer trends and solutions "
 "that keep you ahead of the curve."
 msgstr ""
+"Zengin deneyim ve moda uzmanlığıyla, sizi her zaman bir adım öne taşıyacak "
+"trendler ve çözümler sunuyoruz."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_media_list
@@ -845,14 +910,14 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_big_number
 msgid "happy customers"
-msgstr ""
+msgstr "mutlu müşteriler"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "✽  Dresses"
-msgstr ""
+msgstr "✽  Elbiseler"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "✽  Jackets"
-msgstr ""
+msgstr "✽  Ceketler"
