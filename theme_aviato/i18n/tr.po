@@ -27,6 +27,8 @@ msgid ""
 "<b>A travel agent helps you to plan your <br/> trip from start to finish.</b>\n"
 "        <br/>"
 msgstr ""
+"<b>Seyahat acentesi, yolculuğunuzu <br/> baştan sona planlamanıza yardımcı olur.</b>\n"
+"        <br/>"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_quotes_carousel
@@ -55,6 +57,9 @@ msgid ""
 "Italy’s hot-blooded capital is one of the world’s most romantic and "
 "charismatic cities."
 msgstr ""
+"Büyüleyici kalıntılar, hayranlık uyandıran sanat eserleri ve canlı sokak "
+"hayatının baş döndürücü bir karışımı olan İtalya'nın ateşli başkenti, "
+"dünyanın en romantik ve karizmatik şehirlerinden biridir."
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_quotes_carousel
@@ -76,22 +81,22 @@ msgstr "Arka Plan Şekli"
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_three_columns
 msgid "Book now"
-msgstr ""
+msgstr "Hemen ayırtın"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_popup
 msgid "Check out now and get $200 off your first booking."
-msgstr ""
+msgstr "Hemen rezervasyon yapın, ilk alışverişinizde 200$ indirim kazanın."
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_features
 msgid "Flight Booking"
-msgstr ""
+msgstr "Uçak Bileti Rezervasyonu"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_features
 msgid "Hotel Booking"
-msgstr ""
+msgstr "Otel Rezervasyonu"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_quotes_carousel
@@ -105,7 +110,7 @@ msgstr ""
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_image_text
 msgid "Itinerary Planning"
-msgstr ""
+msgstr "Seyahat Planlama"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_text_image
@@ -158,6 +163,9 @@ msgid ""
 "millennium. And the beer? The best in Europe. Prague is the perfect city to "
 "walk around."
 msgstr ""
+"Prag, güzellik açısından Paris ile eşittir. Tarihi bin yıl öncesine dayanır."
+" Peki ya biraları? Avrupa'nın en iyisi. Prag, dolaşmak için mükemmel bir "
+"şehirdir."
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_three_columns
@@ -172,22 +180,22 @@ msgstr "Tema Araçları"
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_features
 msgid "Ticket Booking"
-msgstr ""
+msgstr "Bilet Rezervasyonu"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_title
 msgid "Top Destinations"
-msgstr ""
+msgstr "En Popüler Rotalar"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_popup
 msgid "Travel Now"
-msgstr ""
+msgstr "Hemen Seyahat Et"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_cover
 msgid "Travel to any corner <br/>of the world"
-msgstr ""
+msgstr "Dünyanın her köşesine<br/> seyahat edin"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_quotes_carousel
@@ -205,7 +213,7 @@ msgstr ""
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_popup
 msgid "Win 200$"
-msgstr ""
+msgstr "200$ Kazan"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_three_columns

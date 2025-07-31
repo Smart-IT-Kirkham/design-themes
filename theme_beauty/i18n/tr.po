@@ -5,6 +5,7 @@
 # Translators:
 # Halil, 2023
 # Yedigen, 2023
+# Deniz Guvener_Odoo <degu@odoo.com>, 2025
 # 
 msgid ""
 msgstr ""
@@ -12,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:21+0000\n"
 "PO-Revision-Date: 2023-10-27 15:39+0000\n"
-"Last-Translator: Yedigen, 2023\n"
+"Last-Translator: Deniz Guvener_Odoo <degu@odoo.com>, 2025\n"
 "Language-Team: Turkish (https://app.transifex.com/odoo/teams/41243/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,7 +31,7 @@ msgstr ""
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_company_team
 msgid "Aline"
-msgstr ""
+msgstr "Aline"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_call_to_action
@@ -42,6 +43,8 @@ msgstr ""
 msgid ""
 "Close your eyes and let yourself go in the expert hands of our beauticians."
 msgstr ""
+"Gözlerinizi kapatın ve kendinizi uzman güzellik uzmanlarımızın ellerine "
+"bırakın."
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_product_list
@@ -51,47 +54,47 @@ msgstr "Uçucu yağlar"
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_product_list
 msgid "Eyeliner"
-msgstr ""
+msgstr "Göz kalemi"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_company_team
 msgid "Iris"
-msgstr ""
+msgstr "İris"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_call_to_action
 msgid "Join us and enjoy the pleasure of caring for yourself."
-msgstr ""
+msgstr "Kendinize özen göstermenin keyfini yaşamak için bize katılın"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_product_list
 msgid "Lipstick"
-msgstr ""
+msgstr "Ruj"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_product_list
 msgid "Make-up"
-msgstr ""
+msgstr "Makyaj"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_company_team
 msgid "Mich"
-msgstr ""
+msgstr "Mich"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_text_image
 msgid "Pamper Yourself"
-msgstr ""
+msgstr "Kendinizi Şımartın"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_product_list
 msgid "Perfume"
-msgstr ""
+msgstr "Parfüm"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_product_list
 msgid "Skin gel"
-msgstr ""
+msgstr "Cilt jeli"
 
 #. module: theme_beauty
 #: model:ir.model,name:theme_beauty.model_theme_utils
@@ -101,7 +104,7 @@ msgstr "Tema Araçları"
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_company_team
 msgid "Tony"
-msgstr ""
+msgstr "Tony"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_cover

@@ -5,6 +5,7 @@
 # Translators:
 # Martin Trigaux, 2024
 # Foldi Robert <foldirobert@nexterp.ro>, 2024
+# Larisa_nexterp, 2025
 # 
 msgid ""
 msgstr ""
@@ -12,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:21+0000\n"
 "PO-Revision-Date: 2023-10-27 15:39+0000\n"
-"Last-Translator: Foldi Robert <foldirobert@nexterp.ro>, 2024\n"
+"Last-Translator: Larisa_nexterp, 2025\n"
 "Language-Team: Romanian (https://app.transifex.com/odoo/teams/41243/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,51 +27,53 @@ msgid ""
 "<i>“One of the great beauties of architecture is that each time, it is like "
 "life starting all over again.”</i>"
 msgstr ""
+"<i>„Una dintre marile frumuseți ale arhitecturii este că de fiecare dată, "
+"este ca și cum viața ar începe din nou.”</i>"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_banner
 msgid "A Different Viewpoint."
-msgstr ""
+msgstr "O perspectivă diferită."
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_call_to_action
 msgid "As <b>436 clients</b> before you, let’s work together"
-msgstr ""
+msgstr "Ca și <b>436 de clienți</b> înaintea ta, hai să lucrăm împreună"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_text_image
 msgid "Building Castle in Cloud"
-msgstr ""
+msgstr "Construim castele în nori"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_media_list
 msgid "Construction site"
-msgstr ""
+msgstr "Șantier"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_picture
 msgid "Creating places that enhance the human experience."
-msgstr ""
+msgstr "Creăm locuri care îmbunătățesc experiența umană."
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_banner
 msgid "Discover More"
-msgstr ""
+msgstr "Descoperă mai mult"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.enark_snippet_options
 msgid "Gradients"
-msgstr ""
+msgstr "Gradiente"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_media_list
 msgid "Know our clients."
-msgstr ""
+msgstr "Cunoaște-ne clienții."
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_media_list
 msgid "Nature friendly"
-msgstr ""
+msgstr "Prietenos cu natura"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.enark_snippet_options
@@ -82,6 +85,7 @@ msgstr "Fără"
 msgid ""
 "Our creations integrate and are in perfect harmony with their environment."
 msgstr ""
+"Creațiile noastre se integrează și sunt în perfectă armonie cu mediul lor."
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_media_list
@@ -90,6 +94,8 @@ msgid ""
 "our close collaboration with the workers and our sustained presence on the "
 "construction sites."
 msgstr ""
+"Stăpânirea noastră a tehnicilor de construcție s-a dezvoltat în timp prin "
+"colaborarea strânsă cu muncitorii și prezența noastră constantă pe șantiere."
 
 #. module: theme_enark
 #: model:ir.model,name:theme_enark.model_theme_utils
@@ -99,7 +105,7 @@ msgstr "Utile Temă"
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_picture
 msgid "We always put people and nature at the center of our projects."
-msgstr ""
+msgstr "Punem întotdeauna oamenii și natura în centrul proiectelor noastre."
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_media_list
@@ -107,6 +113,8 @@ msgid ""
 "We always start by exploring our clients goals, priorities, lifestyle, and "
 "tastes."
 msgstr ""
+"Începem întotdeauna prin a explora obiectivele, prioritățile, stilul de "
+"viață și gusturile clienților noștri."
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_banner
@@ -115,6 +123,9 @@ msgid ""
 "commercial and office sectors. Our projects are built all over the world, in"
 " urban and rural environments."
 msgstr ""
+"Suntem o firmă de arhitectură contemporană care activează în principal în "
+"sectoarele rezidențial, comercial și de birouri. Proiectele noastre sunt "
+"construite în întreaga lume, atât în medii urbane, cât și rurale."
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_text_image
@@ -123,3 +134,6 @@ msgid ""
 "criteria that Zumthor considers to be important in creating an architectural"
 " atmosphere."
 msgstr ""
+"Când proiectăm un concept arhitectural, luăm în considerare cele nouă "
+"criterii pe care Zumthor le consideră importante pentru crearea unei "
+"atmosfere arhitecturale."

@@ -28,57 +28,57 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "$109.50"
-msgstr ""
+msgstr "$109.50"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "$115.50"
-msgstr ""
+msgstr "$115.50"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "$19.00"
-msgstr ""
+msgstr "$19.00"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "$25.00"
-msgstr ""
+msgstr "$25.00"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "$59.00"
-msgstr ""
+msgstr "$59.00"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "$65.00"
-msgstr ""
+msgstr "$65.00"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "21th of August"
-msgstr ""
+msgstr "21 Ağustos"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "24th of August"
-msgstr ""
+msgstr "24 Ağustos"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "27th of August"
-msgstr ""
+msgstr "27 Ağustos"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "4th of September"
-msgstr ""
+msgstr "4 Eylül"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
 msgid "6 Days Pass"
-msgstr ""
+msgstr "6 Günlük Geçiş"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cover
@@ -114,7 +114,7 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
 msgid "Aline"
-msgstr ""
+msgstr "Aline"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
@@ -127,7 +127,7 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "Amsterdam"
-msgstr ""
+msgstr "Amsterdam"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_numbers
@@ -137,7 +137,7 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "Barcelona"
-msgstr ""
+msgstr "Barselona"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
@@ -147,17 +147,17 @@ msgstr "Brüksel"
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "Brussels edition"
-msgstr ""
+msgstr "Brüksel sürümü"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_list
 msgid "CD Albums"
-msgstr ""
+msgstr "CD Albümleri"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_list
 msgid "Caps"
-msgstr ""
+msgstr "Sezgisel"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_text_image
@@ -170,6 +170,7 @@ msgid ""
 "Discover what makes the reputation of the Miraillet festival through these "
 "after-movies."
 msgstr ""
+"Miraillet festivalinin ününü yansıtan kamera arkası videoları keşfedin."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_numbers
@@ -179,7 +180,7 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_banner
 msgid "Enjoy the atmosphere"
-msgstr ""
+msgstr "Atmosferin tadını çıkarın"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
@@ -191,7 +192,7 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_call_to_action
 msgid "Get your ticket"
-msgstr ""
+msgstr "Biletinizi alın"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
@@ -211,12 +212,12 @@ msgstr "Kapüşonlu"
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_call_to_action
 msgid "Join us and make this weekend unforgettable!"
-msgstr ""
+msgstr "Bize katılın ve bu hafta sonunu unutulmaz kılın!"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
 msgid "Joseris"
-msgstr ""
+msgstr "Joseris"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
@@ -241,7 +242,7 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
 msgid "Mich Starck"
-msgstr ""
+msgstr "Mich Starck"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
@@ -254,7 +255,7 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
 msgid "Miraillet Festival"
-msgstr ""
+msgstr "Miraillet Festival"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
@@ -274,17 +275,17 @@ msgstr "Paris"
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "Paris edition"
-msgstr ""
+msgstr "Paris sürümü"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
 msgid "Recent Editions"
-msgstr ""
+msgstr "Son Baskılar"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "Regular ticket"
-msgstr ""
+msgstr "Standart bilet"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
@@ -328,18 +329,18 @@ msgstr "Tema Araçları"
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_media_list
 msgid "Ticketing <br/>&amp; timetables"
-msgstr ""
+msgstr "Biletleme <br/>ve zaman çizelgeleri"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
 msgid ""
 "Tickets will be on sale soon. Do not miss our 6 Days Pass. Free camping!"
-msgstr ""
+msgstr "Biletler yakında satışta. 6 Günlük Geçiş’i kaçırmayın. Kamp ücretsiz!"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
 msgid "Tony"
-msgstr ""
+msgstr "Tony"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
@@ -352,26 +353,26 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "Upcoming events"
-msgstr ""
+msgstr "Yaklaşan etkinlikler"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "VIP ticket"
-msgstr ""
+msgstr "VIP bilet"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_list
 msgid "Vinyls"
-msgstr ""
+msgstr "Plaklar"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_media_list
 msgid "Wheelchair <br/>accessibility"
-msgstr ""
+msgstr "Tekerlekli sandalye <br/>erişimi"
 
 #. module: theme_notes
 #. odoo-javascript
 #: code:addons/theme_notes/static/src/js/tour.js:0
 #, python-format
 msgid "width"
-msgstr ""
+msgstr "genişlik"

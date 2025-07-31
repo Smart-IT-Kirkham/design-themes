@@ -37,12 +37,12 @@ msgstr "Hakkımızda"
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_features
 msgid "Adaptable"
-msgstr ""
+msgstr "Uyarlanabilir"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_cover
 msgid "Creative Studio"
-msgstr ""
+msgstr "Creative Studio"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_three_columns
@@ -52,7 +52,7 @@ msgstr "Detaylar"
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_features
 msgid "Durable"
-msgstr ""
+msgstr "Dayanıklı"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_three_columns
@@ -67,23 +67,27 @@ msgstr "Yenilikçi"
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_features
 msgid "Intuitive"
-msgstr ""
+msgstr "Sezgisel"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_three_columns
 msgid "Made in Santa's Workshop. High quality fabric &amp; exclusive designs."
 msgstr ""
+"Noel Baba’nın Atölyesinde üretildi. Yüksek kaliteli kumaş ve özel "
+"tasarımlar."
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_three_columns
 msgid ""
 "People should love the things they own. Things should be built to last."
 msgstr ""
+"İnsanlar sahip oldukları şeyleri sevmelidir. Eşyalar uzun ömürlü olacak "
+"şekilde üretilmelidir."
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_three_columns
 msgid "Tailored"
-msgstr ""
+msgstr "Kişiselleştirilmiş"
 
 #. module: theme_nano
 #: model:ir.model,name:theme_nano.model_theme_utils
@@ -93,7 +97,7 @@ msgstr "Tema Araçları"
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_three_columns
 msgid "Transforming traditional crafts — with a shot of modern savvy!"
-msgstr ""
+msgstr "Geleneksel el işlerini modern bir dokunuşla dönüştürüyoruz!"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_features
@@ -106,6 +110,8 @@ msgid ""
 "We combine smart design with rich technology <br/>to craft innovative "
 "products."
 msgstr ""
+"Akıllı tasarımı ileri teknolojiyle birleştirerek <br/>yenilikçi ürünler "
+"üretiyoruz."
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_features

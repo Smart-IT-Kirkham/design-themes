@@ -7,6 +7,7 @@
 # Halil, 2023
 # Ertuğrul Güreş <ertugrulg@projetgrup.com>, 2023
 # Yedigen, 2023
+# Deniz Guvener_Odoo <degu@odoo.com>, 2025
 # 
 msgid ""
 msgstr ""
@@ -14,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:23+0000\n"
 "PO-Revision-Date: 2023-10-27 15:39+0000\n"
-"Last-Translator: Yedigen, 2023\n"
+"Last-Translator: Deniz Guvener_Odoo <degu@odoo.com>, 2025\n"
 "Language-Team: Turkish (https://app.transifex.com/odoo/teams/41243/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,6 +29,8 @@ msgid ""
 "<br/>\n"
 "        Discover all the publications. There is probably your next favorite book amoung them."
 msgstr ""
+"<br/>\n"
+"        Tüm yayınları keşfedin. Aralarında favori kitabınız olabilir."
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_image_text
@@ -35,11 +38,13 @@ msgid ""
 "<br/>\n"
 "        Discover the history of Belgium in this well-documented book with many illustrations and testimonials."
 msgstr ""
+"<br/>\n"
+"        Belçika tarihini birçok görsel ve tanıklıkla anlatan bu belgeli kitapta keşfedin."
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_three_columns
 msgid "A Belgian Story"
-msgstr ""
+msgstr "Bir Belçika Öyküsü"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_numbers
@@ -49,7 +54,7 @@ msgstr "İnanılmaz sayfalar"
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_three_columns
 msgid "At the Mars conquest"
-msgstr ""
+msgstr "Mars’a Yolculukta"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_numbers
@@ -59,12 +64,12 @@ msgstr "Güzel parçalar"
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Biographies"
-msgstr ""
+msgstr "Biyografiler"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_call_to_action
 msgid "Browse collection"
-msgstr ""
+msgstr "Koleksiyonu incele"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_call_to_action
@@ -92,11 +97,13 @@ msgid ""
 "Discover the history of Belgium in this well-documented book with many "
 "illustrations and testimonials."
 msgstr ""
+"Pek çok görsel ve tanıklıkla dolu, iyi belgelenmiş bu kitapta Belçika'nın "
+"tarihini keşfedin."
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Discover unknown universes"
-msgstr ""
+msgstr "Bilinmeyen evrenleri keşfedin"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_picture
@@ -106,7 +113,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Enjoy your fears"
-msgstr ""
+msgstr "Korkularınızın tadını çıkarın"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_picture
@@ -114,11 +121,13 @@ msgid ""
 "Explore our top-end Collector's Editions. <br/>Signed and limited tributes "
 "to some of the most outstanding writers of all time."
 msgstr ""
+"Zamana meydan okuyan yazarların anısına ithaf edilmiş, imzalı ve sınırlı "
+"sayıda üretilmiş <br/>üst düzey Koleksiyoncu Sürümlerimizi keşfedin."
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Horror"
-msgstr ""
+msgstr "Korku"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_cover
@@ -132,11 +141,13 @@ msgid ""
 "Learn about the difficulties encountered by NASA engineers in sending the "
 "first men to Mars."
 msgstr ""
+"NASA mühendislerinin Mars'a ilk insanları gönderirken karşılaştıkları "
+"zorluklar hakkında bilgi edinin."
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Meet great people"
-msgstr ""
+msgstr "Harika insanlarla tanışın"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_image_text
@@ -156,7 +167,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_three_columns
 msgid "Re-edition"
-msgstr ""
+msgstr "Yeni baskı"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
@@ -171,12 +182,12 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Romance"
-msgstr ""
+msgstr "Romantik"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Science fiction"
-msgstr ""
+msgstr "Bilim kurgu"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_banner
@@ -189,6 +200,8 @@ msgid ""
 "The first re-edition of this Latin dictionary, from 1460. Printed originally"
 " on the Gutenberg press."
 msgstr ""
+"Bu Latince sözlüğün ilk yeniden basımı; 1460 yılına aittir. Orijinal olarak "
+"Gutenberg matbaasında basılmıştır."
 
 #. module: theme_bookstore
 #: model:ir.model,name:theme_bookstore.model_theme_utils
@@ -203,7 +216,7 @@ msgstr "Faydalı seçenekler"
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_product_list
 msgid "View the book"
-msgstr ""
+msgstr "Kitabı görüntüle"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_picture
@@ -215,4 +228,4 @@ msgstr ""
 #: code:addons/theme_bookstore/static/src/js/tour.js:0
 #, python-format
 msgid "width"
-msgstr ""
+msgstr "genişlik"

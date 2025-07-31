@@ -4,6 +4,7 @@
 # 
 # Translators:
 # Yedigen, 2023
+# Deniz Guvener_Odoo <degu@odoo.com>, 2025
 # 
 msgid ""
 msgstr ""
@@ -11,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:23+0000\n"
 "PO-Revision-Date: 2023-10-27 15:39+0000\n"
-"Last-Translator: Yedigen, 2023\n"
+"Last-Translator: Deniz Guvener_Odoo <degu@odoo.com>, 2025\n"
 "Language-Team: Turkish (https://app.transifex.com/odoo/teams/41243/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -58,7 +59,7 @@ msgstr ""
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_three_columns
 msgid "Fallanzy Integration Explained"
-msgstr ""
+msgstr "Fallanzy Entegrasyonuna Dair Açıklama"
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_three_columns
@@ -67,6 +68,9 @@ msgid ""
 "business for over 20 years. Discover how we answered to the challenges of "
 "this company."
 msgstr ""
+"Fallanzy, 20 yılı aşkın süredir çalışma alanı tasarımı ve ergonomi "
+"danışmanlığı alanında faaliyet göstermektedir. Bu şirketin karşılaştığı "
+"zorluklara nasıl cevap verdiğimizi keşfedin."
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_cover
@@ -76,7 +80,7 @@ msgstr ""
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_three_columns
 msgid "HeyNosf Inc. Digital Transformation"
-msgstr ""
+msgstr "HeyNosf Inc. Dijital Dönüşüm"
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_three_columns
@@ -85,11 +89,14 @@ msgid ""
 "Louis Dewinter. He always had a strong interest in languages and decided to "
 "create a company reflecting his own interests."
 msgstr ""
+"HeyNosf Inc., 2006 yılında Jean-Louis Dewinter tarafından kurulan bir "
+"iletişim ajansıdır. Dil alanına her zaman büyük ilgi duyan Dewinter, kendi "
+"ilgi alanlarını yansıtan bir şirket kurmaya karar vermiştir."
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_three_columns
 msgid "Hotels Improvement Study"
-msgstr ""
+msgstr "Otellerin İyileştirilmesi Çalışması"
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_cover
@@ -103,6 +110,9 @@ msgid ""
 "their time and employee to be more efficient and more productive. Discover "
 "our study."
 msgstr ""
+"Çözümümüz, oteller için de uygundur. Yönetimin zamanını optimize etmesine ve"
+" çalışanların daha verimli ve üretken olmasına yardımcı oluyoruz. "
+"Çalışmamızı keşfedin."
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_cover
@@ -112,7 +122,7 @@ msgstr ""
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_cover
 msgid "START NOW"
-msgstr ""
+msgstr "HEMEN BAŞLAYIN"
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_image_text
@@ -134,7 +144,7 @@ msgstr "Tema Araçları"
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_title
 msgid "Unique experiences."
-msgstr ""
+msgstr "Benzersiz deneyimler."
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_image_text

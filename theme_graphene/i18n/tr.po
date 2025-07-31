@@ -9,6 +9,7 @@
 # Martin Trigaux, 2023
 # Ertuğrul Güreş <ertugrulg@projetgrup.com>, 2023
 # Yedigen, 2023
+# Deniz Guvener_Odoo <degu@odoo.com>, 2025
 # 
 msgid ""
 msgstr ""
@@ -16,7 +17,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:22+0000\n"
 "PO-Revision-Date: 2023-10-27 15:39+0000\n"
-"Last-Translator: Yedigen, 2023\n"
+"Last-Translator: Deniz Guvener_Odoo <degu@odoo.com>, 2025\n"
 "Language-Team: Turkish (https://app.transifex.com/odoo/teams/41243/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -120,7 +121,7 @@ msgstr ""
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_three_columns
 msgid "Mobile Experience"
-msgstr ""
+msgstr "Mobil Deneyim"
 
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_cover
@@ -138,7 +139,7 @@ msgstr "Öde"
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_three_columns
 msgid "Powerful API"
-msgstr ""
+msgstr "Güçlü API"
 
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_three_columns
@@ -146,6 +147,8 @@ msgid ""
 "Probably the only CRM with a full mobile experience. Never wondered how it "
 "works? That's because it just works"
 msgstr ""
+"Muhtemelen tam mobil deneyim sunan tek CRM. Nasıl çalıştığını hiç merak "
+"etmediniz mi? Bunun sebebi, sorunsuz çalışmasıdır"
 
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_picture
@@ -167,7 +170,7 @@ msgstr "Şimdi Başla"
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_three_columns
 msgid "Support Team"
-msgstr ""
+msgstr "Destek Ekibi"
 
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_three_columns
@@ -175,6 +178,8 @@ msgid ""
 "Thanks to our API, Developers report building their solutions 4x faster. "
 "Discover why and how."
 msgstr ""
+"Geliştiriciler, API'mız sayesinde çözümlerini 4 kat daha hızlı "
+"oluşturduklarını bildiriyor. Bunun neden ve nasıl mümkün olduğunu keşfedin."
 
 #. module: theme_graphene
 #: model:ir.model,name:theme_graphene.model_theme_utils
@@ -197,6 +202,8 @@ msgid ""
 "Users are looking to consume engaging content.<br/>We empowers our teams to "
 "create the most relevant content."
 msgstr ""
+"Kullanıcılar ilgi çekici içerik tüketmek istiyor. <br/>Biz de ekiplerimizi "
+"en uygun içeriği üretmeleri için güçlendiriyoruz."
 
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_three_columns
@@ -204,8 +211,10 @@ msgid ""
 "We have a support team that will do everything to answer you as quickly as "
 "the voice assistants."
 msgstr ""
+"Size sesli asistanlar kadar hızlı bir şekilde yanıt vermek için elinden "
+"gelen her şeyi yapacak bir destek ekibimiz mevcut."
 
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_text_image
 msgid "We have one goal in mind, the user satisfaction."
-msgstr ""
+msgstr "Tek hedefimiz var: Kullanıcı memnuniyeti."
