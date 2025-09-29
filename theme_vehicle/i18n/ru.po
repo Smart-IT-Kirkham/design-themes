@@ -1,25 +1,30 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_vehicle
-# 
+# * theme_vehicle
+#
 # Translators:
 # Wil Odoo, 2024
 # Ilya Rozhkov, 2025
 # Anastasiia Koroleva, 2025
-# 
+#
+# "Anastasiia Koroleva (koan)" <koan@odoo.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-07 13:31+0000\n"
-"PO-Revision-Date: 2024-09-25 18:03+0000\n"
-"Last-Translator: Anastasiia Koroleva, 2025\n"
-"Language-Team: Russian (https://app.transifex.com/odoo/teams/41243/ru/)\n"
+"PO-Revision-Date: 2025-09-23 22:40+0000\n"
+"Last-Translator: \"Anastasiia Koroleva (koan)\" <koan@odoo.com>\n"
+"Language-Team: Russian <https://translate.odoo.com/projects/odoo-18/"
+"theme_vehicle/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: ru\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || ("
+"n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_quotes_carousel_minimal
@@ -27,6 +32,8 @@ msgid ""
 "\" A premier choice for luxury cars. <br/>Expert maintenance, exquisite "
 "service, and utmost professionalism. \""
 msgstr ""
+"«Лучший выбор автомобилей премиум-класса. <br/>Профессиональное "
+"обслуживание, безупречный сервис и высочайший уровень компетенции.»"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_quotes_carousel_minimal
@@ -34,6 +41,8 @@ msgid ""
 "\" Outstanding service and craftsmanship! <br/>They ensure every luxury "
 "vehicle is in perfect condition. \""
 msgstr ""
+"«Выдающийся сервис и мастерство! <br/>Они доводят каждый автомобиль до "
+"идеального состояния.»"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_quotes_carousel_minimal
@@ -41,11 +50,13 @@ msgid ""
 "\" Their service is exceptional. <br/>Premium care, top-notch quality, and "
 "unparalleled attention to detail. \""
 msgstr ""
+"«Исключительный сервис. <br/>Премиальный уход, высочайшее качество и "
+"внимание к каждой детали.»"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_numbers_charts
 msgid "$ 2.4B"
-msgstr ""
+msgstr "2,4 млрд $"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
@@ -55,32 +66,32 @@ msgstr "1 200 $"
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
 msgid "$2,500.00"
-msgstr ""
+msgstr "2 500,00 $"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
 msgid "$3,000.00"
-msgstr ""
+msgstr "3 000,00 $"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
 msgid "$4,000.00"
-msgstr ""
+msgstr "4 000,00 $"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
 msgid "$450.00"
-msgstr ""
+msgstr "450,00 $"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
 msgid "$800.00"
-msgstr ""
+msgstr "800,00 $"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_numbers_charts
 msgid "+300,000"
-msgstr ""
+msgstr "+300 000"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_numbers_charts
@@ -88,6 +99,8 @@ msgid ""
 "75% of our clients choose to upgrade to the latest models every 3 years, "
 "showcasing strong brand loyalty and trust."
 msgstr ""
+"75% наших клиентов выбирают обновление до новых моделей каждые 3 года – "
+"показатель высокой лояльности и доверия к бренду."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_call_to_action
@@ -110,6 +123,7 @@ msgid ""
 "<br/>Offering a wide selection of quality cars to suit every need and "
 "budget.<br/><br/>"
 msgstr ""
+"<br/>Большой выбор качественных авто – на любой вкус и бюджет.<br/><br/>"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_big_number
@@ -118,6 +132,10 @@ msgid ""
 "            87%\n"
 "        </font>"
 msgstr ""
+"<font class=\"text-gradient\" style=\"background-image: linear-gradient("
+"0deg, rgb(29, 32, 48) 0%, rgb(222, 222, 222) 49%);\">\n"
+"            87%\n"
+"        </font>"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_empowerment
@@ -125,6 +143,8 @@ msgid ""
 "<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  Top-"
 "rated vehicles"
 msgstr ""
+"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/> "
+"Автомобили с самым высоким рейтингом"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.configurator_s_three_columns
@@ -147,11 +167,13 @@ msgid ""
 "<span class=\"text-o-color-3\">Our uniquely designed LED headlights are not "
 "only gorgeous but powerfully light your way.</span>"
 msgstr ""
+"<span class=\"text-o-color-3\">Наши уникальные светодиодные фары не только "
+"выглядят эффектно, но и отлично освещают дорогу.</span>"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_image_title
 msgid "A Deep Dive into Luxury and Innovation"
-msgstr ""
+msgstr "Погружение в мир роскоши и инноваций"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_three_columns
@@ -160,6 +182,9 @@ msgid ""
 "adventure. Built for those who refuse to compromise on performance and "
 "style."
 msgstr ""
+"Смелое заявление в каждой детали, Koran X олицетворяет дух современных "
+"приключений. Создан для тех, кто не идет на компромисс между "
+"производительностью и стилем."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_cards_grid
@@ -167,16 +192,19 @@ msgid ""
 "Achieve optimal performance with a sleek, aerodynamic design that reduces "
 "drag and enhances stability, ensuring superior speed and efficiency."
 msgstr ""
+"Достигайте максимальной производительности с обтекаемым аэродинамичным "
+"дизайном, который снижает сопротивление и повышает устойчивость – скорость и "
+"эффективность на высшем уровне."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_cards_grid
 msgid "Aerodynamic Design"
-msgstr ""
+msgstr "Аэродинамичный дизайн"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_title
 msgid "All our models"
-msgstr ""
+msgstr "Все наши модели"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_features_wall
@@ -184,23 +212,25 @@ msgid ""
 "Benefit from competitive financing plans and leasing options designed to "
 "make your car purchase as affordable as possible."
 msgstr ""
+"Воспользуйтесь выгодными программами финансирования и лизинга, которые "
+"делают покупку автомобиля максимально доступной."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_wavy_grid
 msgid "Bespoke Automotive Solutions"
-msgstr ""
+msgstr "Кастомные автомобильные решения"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_freegrid
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_quadrant
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_striped_center_top
 msgid "Book a Service"
-msgstr ""
+msgstr "Записаться на сервис"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_empowerment
 msgid "Book a test drive"
-msgstr ""
+msgstr "Записаться на тест-драйв"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_product_list
@@ -238,11 +268,14 @@ msgid ""
 "Bring the KORAN to life on your smartphone or tablet so you can visualise it"
 " for yourself"
 msgstr ""
+"KORAN оживает на вашем экране. Узнайте, как он будет выглядеть в реальной "
+"жизни"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_empowerment
 msgid "Browse our inventory   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
 msgstr ""
+"Посмотреть наш ассортимент <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_numbers_charts
@@ -250,6 +283,8 @@ msgid ""
 "Clients saved $2.4 billion by choosing our eco-efficient and cost-effective "
 "vehicles."
 msgstr ""
+"Наши клиенты сэкономили 2,4 млрд $ благодаря выбору экологичных и "
+"экономичных автомобилей."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
@@ -257,6 +292,9 @@ msgid ""
 "Complete maintenance service covering engine check, transmission fluid "
 "change, brake inspection, and system diagnostics for optimal performance."
 msgstr ""
+"Полное сервисное обслуживание: диагностика двигателя, замена трансмиссионной "
+"жидкости, проверка тормозов и системная диагностика для оптимальной "
+"производительности."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_key_benefits
@@ -269,6 +307,8 @@ msgid ""
 "Comprehensive detailing service including exterior polishing, interior "
 "cleaning, and protective coatings for a showroom finish."
 msgstr ""
+"Комплексная услуга детейлинга: полировка кузова, химчистка салона и защитные "
+"покрытия для отделки, как в выставочном зале."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.configurator_s_three_columns
@@ -283,12 +323,12 @@ msgstr "Свяжитесь с нами"
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
 msgid "Custom Interior Upgrades"
-msgstr ""
+msgstr "Кастомный интерьер"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_key_benefits
 msgid "Custom Vehicle Options"
-msgstr ""
+msgstr "Кастомные опции для автомобиля"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_three_columns
@@ -297,11 +337,14 @@ msgid ""
 "performance to the streets. Precision-tuned for speed, it promises an "
 "driving experience."
 msgstr ""
+"Создан для искателей острых ощущений, Koran GT переносит гоночный драйв на "
+"городские улицы. Точно настроенный на скорость, он обещает захватывающий "
+"опыт вождения."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_key_images
 msgid "Discover Excellence in Luxury Vehicle Care"
-msgstr ""
+msgstr "Уход за автомобилем класса люкс – это искусство"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
@@ -310,6 +353,9 @@ msgid ""
 "provide unparalleled quality and sophistication. Experience excellence on "
 "every drive."
 msgstr ""
+"Откройте для себя наш эксклюзивный набор услуг для автомобилей премиум-"
+"класса, где безупречное качество и утонченность – в каждой детали. "
+"Почувствуйте совершенство в каждой поездке."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_key_benefits
@@ -317,6 +363,9 @@ msgid ""
 "Discover unique and advanced features that set our vehicles apart, providing"
 " you with exceptional performance and cutting-edge technology."
 msgstr ""
+"Откройте для себя уникальные и современные функции, которые выделяют наши "
+"автомобили среди конкурентов – высочайшая производительность и передовые "
+"технологии."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_carousel_intro
@@ -324,31 +373,36 @@ msgid ""
 "Discover unparalleled automotive care with our expert services that blend "
 "precision, luxury, and exceptional performance."
 msgstr ""
+"Откройте для себя непревзойденный уход за автомобилем с нашими "
+"профессиональными услугами, которые сочетают точность, роскошь и "
+"исключительную производительность."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_framed_intro
 msgid "Drive Your Dream: Quality Cars for Every Journey"
 msgstr ""
+"Рулите своей мечтой. Мы предлагаем качественные автомобили, куда бы вы ни "
+"направились"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_striped_center_top
 msgid "Drive with Confidence and Style"
-msgstr ""
+msgstr "Ездите с уверенностью и стилем"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_card_offset
 msgid "Drive with confidence."
-msgstr ""
+msgstr "Водите уверенно."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_unveil
 msgid "Drive your Passion"
-msgstr ""
+msgstr "Двигайтесь к своей мечте"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_carousel_intro
 msgid "Driving excellence with luxury vehicles"
-msgstr ""
+msgstr "Наши автомобили премиум-класса – это воплощение совершенства"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_features
@@ -371,6 +425,8 @@ msgid ""
 "Elevate your driving experience with our bespoke maintenance and repair "
 "solutions."
 msgstr ""
+"Повышайте удовольствие от вождения с нашими кастомными решениями по ремонту "
+"и обслуживанию."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_cards_grid
@@ -379,21 +435,24 @@ msgid ""
 "systems and precise steering, offering unmatched agility and cornering "
 "capabilities."
 msgstr ""
+"Наслаждайтесь исключительным контролем и отзывчивостью благодаря передовым "
+"системам подвески и точному рулевому управлению, предлагающим "
+"непревзойденную маневренность и возможности в поворотах."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_wavy_grid
 msgid "Excellence and Craftsmanship"
-msgstr ""
+msgstr "Совершенство и мастерство"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
 msgid "Exclusive Exterior Customization"
-msgstr ""
+msgstr "Эксклюзивная внешняя кастомизация"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_key_benefits
 msgid "Exclusive Features"
-msgstr ""
+msgstr "Эксклюзивные функции"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_cards_grid
@@ -402,21 +461,27 @@ msgid ""
 "performance engine, designed for an exhilarating driving experience on both "
 "the track and the road."
 msgstr ""
+"Почувствуйте мощь: высокопроизводительный двигатель нашего спортивного "
+"автомобиля подарит вам захватывающие впечатления и максимальную скорость. Он "
+"создан для того, чтобы вы получили незабываемые эмоции как на треке, так и "
+"на дороге."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_carousel_intro
 msgid "Experience top-tier luxury"
-msgstr ""
+msgstr "Испытайте роскошь высшего уровня"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_features_wall
 msgid "Expert Vehicle Service"
-msgstr ""
+msgstr "Профессиональный автосервис"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_key_images
 msgid "Expert technicians specializing in luxury and exotic vehicles"
 msgstr ""
+"Опытные техники по обслуживанию автомобилей премиум-класса и эксклюзивных "
+"марок"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_carousel_intro
@@ -424,12 +489,16 @@ msgid ""
 "Explore more and find premium services for your luxury vehicle, crafted to "
 "ensure unrivaled quality and customer satisfaction."
 msgstr ""
+"Мы предлагаем премиальные услуги для вашего автомобиля. Они созданы для "
+"того, чтобы обеспечить безупречное качество и превзойти ваши ожидания."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_unveil
 msgid ""
 "Explore our exceptional range of cars designed for performance and luxury."
 msgstr ""
+"Ознакомьтесь с нашей коллекцией автомобилей, которые идеально сочетают в "
+"себе производительность и роскошь."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_features_wall
@@ -437,36 +506,40 @@ msgid ""
 "Explore our extensive inventory of new and pre-owned cars to find the "
 "perfect vehicle that fits your needs and budget."
 msgstr ""
+"Изучите наш обширный ассортимент новых и подержанных автомобилей и найдите "
+"подходящий вариант под ваш бюджет и потребности."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_images_mosaic
 msgid "Explore premium maintenance and bespoke care for your high-end car."
 msgstr ""
+"Премиальное обслуживание и индивидуальный уход для вашего автомобиля "
+"премиум-класса."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_empowerment
 msgid "Find your perfect ride<br/>with premium car sales"
-msgstr ""
+msgstr "Выберите свой идеальный автомобиль<br/>из нашей премиальной коллекции"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_features_wall
 msgid "Flexible Financing Options"
-msgstr ""
+msgstr "Гибкие варианты финансирования"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
 msgid "Full-Service Maintenance"
-msgstr ""
+msgstr "Полное сервисное обслуживание"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_cards_grid
 msgid "High-Performance Engine"
-msgstr ""
+msgstr "Высокопроизводительный двигатель"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
 msgid "High-Performance Tuning"
-msgstr ""
+msgstr "Профессиональный тюнинг"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_cards_grid
@@ -475,11 +548,14 @@ msgid ""
 "controls, and premium materials, all crafted to enhance your driving "
 "pleasure and comfort."
 msgstr ""
+"Насладитесь комфортом и удовольствием от вождения. Кабина создана специально "
+"для водителя: спортивные сиденья, интуитивное управление и материалы "
+"премиум-класса."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_wavy_grid
 msgid "Innovation and Performance"
-msgstr ""
+msgstr "Инновации и производительность"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_call_to_action
@@ -493,6 +569,8 @@ msgid ""
 "Keep your car in top condition with our comprehensive service and "
 "maintenance options, handled by skilled technicians."
 msgstr ""
+"Поддерживайте свой автомобиль в отличном состоянии с нашими комплексными "
+"вариантами сервиса и обслуживания, выполняемыми квалифицированными техниками."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_card_offset
@@ -502,6 +580,9 @@ msgid ""
 "maintenance services. From cars to motorbikes, we offer expert solutions to "
 "ensure safe and smooth rides."
 msgstr ""
+"Сохраняйте свой автомобиль в идеальном состоянии с нашими комплексными "
+"услугами по ремонту и обслуживанию. От машин до мотоциклов – мы предлагаем "
+"профессиональные решения для безопасных и комфортных поездок."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_quadrant
@@ -510,6 +591,9 @@ msgid ""
 "services. From cars to motorbikes, we’ve got you covered.<br/><br/> Drive "
 "with confidence and style."
 msgstr ""
+"Сохраняйте идеальное состояние автомобиля с нашими профессиональными "
+"услугами по ремонту и обслуживанию. От машин до мотоциклов – мы позаботимся "
+"обо всем.<br/><br/> Водите уверенно и со стилем."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_striped_center_top
@@ -517,11 +601,14 @@ msgid ""
 "Keep your vehicles running smoothly with our expert repair and maintenance "
 "services, designed for performance and reliability."
 msgstr ""
+"Поддерживайте безупречную работу автомобиля с помощью наших профессиональных "
+"услуг по ремонту и обслуживанию, разработанных для повышения "
+"производительности и надежности."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_numbers_charts
 msgid "Key Metrics of our Achievements"
-msgstr ""
+msgstr "Ключевые показатели наших достижений"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_three_columns
@@ -536,7 +623,7 @@ msgstr "Коран мини"
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_three_columns
 msgid "Koran X"
-msgstr ""
+msgstr "Koran X"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_features
@@ -548,11 +635,12 @@ msgstr "Длинная дистанция"
 msgid ""
 "Looking for a leasing plan or a brand new car ? We got you covered<br/><br/>"
 msgstr ""
+"Ищете план лизинга или новый автомобиль? Мы предлагаем оба варианта<br/><br/>"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
 msgid "Luxury Vehicle Servicing"
-msgstr ""
+msgstr "Сервисное обслуживание автомобилей премиум-класса"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_media_list
@@ -568,7 +656,7 @@ msgstr "Никакого компромисса"
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_images_mosaic
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
 msgid "Our Luxury Vehicle Services"
-msgstr ""
+msgstr "Наши услуги для автомобилей премиум-класса"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_references
@@ -578,7 +666,7 @@ msgstr "Наши партнеры"
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_empowerment
 msgid "Our cars"
-msgstr ""
+msgstr "Наши автомобили"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_numbers_charts
@@ -587,6 +675,9 @@ msgid ""
 "forward, enabling us to deliver excellence across all categories of the "
 "automotive industry."
 msgstr ""
+"Наше стремление к инновациям, производительности и устойчивому развитию "
+"ведет нас вперед – мы гарантируем совершенство во всех направлениях "
+"автомобильной индустрии."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_key_benefits
@@ -594,6 +685,8 @@ msgid ""
 "Our team provides full support throughout your vehicle purchase and "
 "ownership experience, from initial consultation to ongoing service."
 msgstr ""
+"Наша команда сопровождает вас на каждом этапе – от консультации при покупке "
+"до обслуживания в период владения автомобилем."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_features_grid
@@ -617,6 +710,9 @@ msgid ""
 "Performance tuning service including engine optimization, suspension "
 "upgrades, and exhaust modifications to enhance driving dynamics and power."
 msgstr ""
+"Услуги по тюнингу производительности, включая оптимизацию двигателя, "
+"модернизацию подвески и модификацию выхлопной системы для улучшенной "
+"динамики и мощности."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
@@ -624,46 +720,49 @@ msgid ""
 "Personalized exterior modifications such as custom paint jobs, aerodynamic "
 "enhancements, and bespoke alloy wheels to reflect your style."
 msgstr ""
+"Внешний вид, который отразит ваш стиль. Мы предлагаем эксклюзивную "
+"кастомизацию: от уникальной окраски и аэродинамических элементов до дисков "
+"по индивидуальному дизайну."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_key_images
 msgid "Personalized service to ensure your vehicle's optimal performance"
-msgstr ""
+msgstr "Персональный сервис для максимальной производительности вашего авто"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_cards_grid
 msgid "Precision Handling"
-msgstr ""
+msgstr "Точное управление"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_striped_center_top
 msgid "Precision in every detail"
-msgstr ""
+msgstr "Точность в каждой детали"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
 msgid "Premium Detailing Package"
-msgstr ""
+msgstr "Пакет премиум-детейлинга"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_key_images
 msgid "Premium Services for Your High-End Automotive Needs"
-msgstr ""
+msgstr "Полный спектр премиальных услуг для автомобилей премиум-класса"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_carousel_intro
 msgid "Premium automotive services"
-msgstr ""
+msgstr "Премиальные автоуслуги"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_card_offset
 msgid "Reliable Vehicle Services &amp; Repairs"
-msgstr ""
+msgstr "Надежный сервис и ремонт автомобилей"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_freegrid
 msgid "Reliable Vehicle Services and Maintenance"
-msgstr ""
+msgstr "Надежный автосервис и качественное обслуживание"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_masonry_block_image_texts_image_template
@@ -676,11 +775,13 @@ msgid ""
 "Specialized servicing tailored for high-end vehicles, including advanced "
 "diagnostics, custom parts, and manufacturer-recommended procedures."
 msgstr ""
+"Специализированный сервис для авто премиум-класса: расширенная диагностика, "
+"индивидуальные запчасти и процедуры по стандартам производителей."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_cards_grid
 msgid "Sporty Interior"
-msgstr ""
+msgstr "Спортивный интерьер"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_cover
@@ -690,12 +791,12 @@ msgstr "Запустите двигатель"
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_key_images
 msgid "State-of-the-art facilities for superior maintenance"
-msgstr ""
+msgstr "Современные сервисные центры для обслуживания высочайшего уровня"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_wavy_grid
 msgid "Sustainable Luxury"
-msgstr ""
+msgstr "Экологичная роскошь"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
@@ -703,6 +804,9 @@ msgid ""
 "Tailored interior enhancements including premium leather upholstery, bespoke"
 " trims, and advanced infotainment systems for a unique driving experience."
 msgstr ""
+"Кастомные улучшения интерьера, включая обивку из кожи премиум-класса, "
+"отделку на заказ и передовые информационно-развлекательные системы для "
+"уникального опыта вождения."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_text_image
@@ -712,7 +816,7 @@ msgstr "Воспользуйтесь бесплатной пробной вер�
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_cover
 msgid "Take it all. Compliments too. <br/><br/>"
-msgstr ""
+msgstr "Забирайте свой автомобиль и готовьтесь принимать комплименты.<br/><br/>"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_cover
@@ -722,7 +826,7 @@ msgstr "Новый KORAN X"
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_cta_box
 msgid "The best car dealer<br/>in your local area"
-msgstr ""
+msgstr "Лучший автодилер<br/>в вашем регионе"
 
 #. module: theme_vehicle
 #: model:ir.model,name:theme_vehicle.model_theme_utils
@@ -741,16 +845,19 @@ msgid ""
 "opulence meets cutting-edge technology. Elevate your journey with vehicles "
 "that blend sophistication and performance seamlessly."
 msgstr ""
+"Мы создали автомобили, которые меняют представление о вождении. Наша "
+"эксклюзивная коллекция сочетает роскошь, современные технологии и "
+"безупречную производительность."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_key_images
 msgid "Trust us to keep your luxury vehicle in pristine condition"
-msgstr ""
+msgstr "Доверьтесь нам – мы сохраним ваш автомобиль в идеальном состоянии"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_cards_grid
 msgid "Unleash the Power of Our Sports Cars"
-msgstr ""
+msgstr "Откройте мощь наших спортивных авто"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_three_columns
@@ -759,16 +866,18 @@ msgid ""
 "with classic design, delivering a thrilling ride that’s both swift and "
 "smooth."
 msgstr ""
+"Мощь и элегантность: Koran Mini сочетает передовые технологии с классическим "
+"дизайном, обеспечивая захватывающую и плавную поездку."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_quadrant
 msgid "Vehicle Services"
-msgstr ""
+msgstr "Автосервисные услуги"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_picture
 msgid "View the all-new KORAN in 3D wherever you are"
-msgstr ""
+msgstr "Откройте для себя новый KORAN в 3D, где бы вы ни находились"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_key_benefits
@@ -776,6 +885,8 @@ msgid ""
 "We offer personalized vehicle configurations to match your preferences and "
 "needs, ensuring you get the perfect fit for your lifestyle."
 msgstr ""
+"Мы предлагаем кастомные конфигурации автомобилей с учетом ваших "
+"предпочтений, чтобы идеально соответствовать вашему стилю жизни."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_wavy_grid
@@ -784,11 +895,14 @@ msgid ""
 "Leveraging cutting-edge features, we ensure every vehicle provides "
 "exceptional performance and sophistication."
 msgstr ""
+"Мы предлагаем последние достижения в автомобильных технологиях и дизайне. "
+"Используя передовые функции, мы создаем автомобили с исключительной "
+"производительностью и элегантностью."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_numbers_charts
 msgid "We proudly serve over 300,000 satisfied customers."
-msgstr ""
+msgstr "Более 300 000 довольных клиентов по всему миру."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_wavy_grid
@@ -796,16 +910,18 @@ msgid ""
 "We provide tailored luxury vehicles designed to meet your specific "
 "preferences."
 msgstr ""
+"Мы предлагаем автомобили премиум-класса, подобранные с учетом ваших "
+"предпочтений."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_wavy_grid
 msgid "What we offer to our clients"
-msgstr ""
+msgstr "Что мы предлагаем нашим клиентам"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_features_wall
 msgid "Wide Vehicle Selection"
-msgstr ""
+msgstr "Широкий выбор автомобилей"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_wavy_grid
@@ -814,6 +930,8 @@ msgid ""
 "vehicles that deliver unmatched performance and style, ensuring a luxurious "
 "driving experience."
 msgstr ""
+"Благодаря многолетнему опыту и высочайшему мастерству мы создаем автомобили "
+"премиум-класса с непревзойденной динамикой и стилем для роскошного вождения."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_features_grid
@@ -823,7 +941,7 @@ msgstr "Ваши преимущества"
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_wavy_grid
 msgid "Your satisfaction and environmental impact are our priorities."
-msgstr ""
+msgstr "Ваш комфорт и экологичность – наши основные приоритеты."
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_big_number
@@ -833,9 +951,9 @@ msgstr "удовлетворенность клиентов"
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
 msgid "✽  Customization &amp; Upgrades"
-msgstr ""
+msgstr "✽ Кастомизация и улучшения"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_pricelist_boxed
 msgid "✽  Maintenance &amp; Care"
-msgstr ""
+msgstr "✽  Обслуживание и уход"

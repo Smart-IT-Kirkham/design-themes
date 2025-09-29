@@ -1,27 +1,29 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_artists
-# 
+# * theme_artists
+#
 # Translators:
 # Óscar Fonseca <tecnico@pyming.com>, 2024
 # marcescu, 2024
 # Jonatan Gk, 2024
 # Arnau Ros, 2024
 # Noemi Pla, 2025
-# 
+# "Noemi Pla Garcia (nopl)" <nopl@odoo.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-07 13:30+0000\n"
-"PO-Revision-Date: 2024-09-25 18:03+0000\n"
-"Last-Translator: Noemi Pla, 2025\n"
-"Language-Team: Catalan (https://app.transifex.com/odoo/teams/41243/ca/)\n"
+"PO-Revision-Date: 2025-09-16 22:40+0000\n"
+"Last-Translator: \"Noemi Pla Garcia (nopl)\" <nopl@odoo.com>\n"
+"Language-Team: Catalan <https://translate.odoo.com/projects/odoo-18/"
+"theme_artists/ca/>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: ca\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_quotes_carousel_minimal
@@ -29,6 +31,8 @@ msgid ""
 "\" A visionary partner for growth. <br/>Innovative, skilled, and always "
 "pushing creative boundaries. \""
 msgstr ""
+"«Un soci visionari que impulsa el creixement. <br/>Innovador, competent i "
+"trencant barreres creatives»."
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_quotes_carousel_minimal
@@ -36,26 +40,29 @@ msgid ""
 "\" Outstanding artistry and service! <br/>They consistently exceed our "
 "creative expectations. \""
 msgstr ""
+"«Art i servei excepcionals!<br/>Sempre superen les nostres expectatives»."
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_quotes_carousel_minimal
 msgid "\" Their creativity transformed our vision. Unique and truly inspiring. \""
 msgstr ""
+"«La seva creativitat va canviar la nostra visió. Original i realment "
+"inspiradora»."
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_pricelist_boxed
 msgid "$1,200.00"
-msgstr ""
+msgstr "1200,00 €"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_pricelist_boxed
 msgid "$1,300.00"
-msgstr ""
+msgstr "1300,00 €"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_pricelist_boxed
 msgid "$1,350.00"
-msgstr ""
+msgstr "1350,00 €"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_pricelist_boxed
@@ -70,12 +77,12 @@ msgstr ""
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_pricelist_boxed
 msgid "$1,600.00"
-msgstr ""
+msgstr "1600,00 €"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_product_catalog
 msgid "02.08.2025"
-msgstr ""
+msgstr "02/08/2025"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_product_catalog

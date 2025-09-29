@@ -1,23 +1,28 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_kea
-# 
+# * theme_kea
+#
 # Translators:
 # Wil Odoo, 2024
-# 
+#
+# "Anastasiia Koroleva (koan)" <koan@odoo.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-07 13:30+0000\n"
-"PO-Revision-Date: 2024-09-25 18:03+0000\n"
-"Last-Translator: Wil Odoo, 2024\n"
-"Language-Team: Russian (https://app.transifex.com/odoo/teams/41243/ru/)\n"
+"PO-Revision-Date: 2025-09-23 07:08+0000\n"
+"Last-Translator: \"Anastasiia Koroleva (koan)\" <koan@odoo.com>\n"
+"Language-Team: Russian <https://translate.odoo.com/projects/odoo-18/"
+"theme_kea/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: ru\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || ("
+"n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_quotes_carousel_minimal
@@ -25,6 +30,8 @@ msgid ""
 "\" A leader in virtual innovation. <br/>Engaging, realistic, and always "
 "pushing VR boundaries. \""
 msgstr ""
+"«Лидер в области виртуальных инноваций. <br/>Увлекательно, реалистично и "
+"всегда на границе возможностей VR.»"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_quotes_carousel_minimal
@@ -32,6 +39,8 @@ msgid ""
 "\" Outstanding tech and service! <br/>They consistently deliver mind-blowing"
 " VR experiences. \""
 msgstr ""
+"«Отличные технологии и сервис! <br/>Они стабильно создают впечатляющий "
+"VR-опыт.»"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_quotes_carousel_minimal
@@ -39,21 +48,23 @@ msgid ""
 "\" Their VR experiences are immersive. <br/>Cutting-edge technology and "
 "seamless interaction. \""
 msgstr ""
+"«Передовые технологии и безупречное взаимодействие –<br/>вот что делает их "
+"VR-опыт таким захватывающим.»"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_key_benefits
 msgid "24/7 Technical Support"
-msgstr ""
+msgstr "Круглосуточная техническая поддержка"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_numbers
 msgid "256"
-msgstr ""
+msgstr "256"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_big_number
 msgid "80+"
-msgstr ""
+msgstr "80+"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_features
@@ -74,6 +85,7 @@ msgstr "<b>Потрясающие визуальные эффекты</b>"
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_empowerment
 msgid "<br/>Empowering businesses through advanced technology.<br/><br/>"
 msgstr ""
+"<br/>Расширяем возможности бизнеса с помощью передовых технологий.<br/><br/>"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_image_text
@@ -101,11 +113,13 @@ msgid ""
 "<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  Cutting-"
 "edge innovation"
 msgstr ""
+"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/> Передовые "
+"инновации"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_image_title
 msgid "A Deep Dive into Virtual Reality and Innovation"
-msgstr ""
+msgstr "Глубокое погружение в виртуальную реальность и инновации"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_features
@@ -115,7 +129,7 @@ msgstr "Небольшое объяснение этой замечательн�
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_key_images
 msgid "Advanced VR technology for stunning experiences"
-msgstr ""
+msgstr "Получите потрясающие впечатления благодаря передовым VR-технологиям"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_cta_box
@@ -143,6 +157,8 @@ msgid ""
 "Creation of high-quality VR content, including 360-degree videos, "
 "animations, and interactive elements to enhance user engagement."
 msgstr ""
+"Создание качественного VR-контента: 360-градусные видео, анимации и "
+"интерактивные элементы для вовлечения пользователей."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
@@ -150,36 +166,38 @@ msgid ""
 "Creative design of VR experiences, including storyboarding, 3D modeling, and"
 " user interaction to captivate and engage your audience."
 msgstr ""
+"Креативное проектирование VR-опыта: сторибординг, 3D-моделирование и "
+"взаимодействие с пользователем для вовлечения аудитории."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_key_benefits
 msgid "Custom Tech Solutions"
-msgstr ""
+msgstr "Индивидуальные IT-решения"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "Custom VR Application Development"
-msgstr ""
+msgstr "Разработка индивидуальных VR-приложений"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_features_wall
 msgid "Custom VR Solutions"
-msgstr ""
+msgstr "Индивидуальные VR-решения"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_key_benefits
 msgid "Cutting-Edge Innovations"
-msgstr ""
+msgstr "Передовые инновации"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_wavy_grid
 msgid "Cutting-Edge Technology"
-msgstr ""
+msgstr "Передовые технологии"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_features_wall
 msgid "Cutting-Edge VR Equipment"
-msgstr ""
+msgstr "Современное VR-оборудование"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_three_columns
@@ -203,16 +221,19 @@ msgid ""
 "immersive virtual worlds, explore fantastical landscapes, and experience the"
 " future of entertainment like never before."
 msgstr ""
+"Откройте новые измерения с нашими передовыми VR-шлемами. Погрузитесь в "
+"иммерсивные виртуальные миры, исследуйте фантастические пейзажи и испытайте "
+"будущее развлечений."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_striped_center_top
 msgid "Dive Into VR"
-msgstr ""
+msgstr "Погрузитесь в VR"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_key_images
 msgid "Dive into a new reality with our cutting-edge VR products"
-msgstr ""
+msgstr "Погрузитесь в новую реальность с нашими передовыми VR-продуктами"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_features_wall
@@ -220,6 +241,8 @@ msgid ""
 "Dive into captivating virtual worlds with our state-of-the-art VR "
 "technology, offering unparalleled immersion and interactive adventures."
 msgstr ""
+"Окунитесь в захватывающие виртуальные миры с нашей передовой VR-технологией –"
+" непревзойденное погружение и интерактивные приключения."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_carousel_intro
@@ -227,21 +250,23 @@ msgid ""
 "Dive into cutting-edge VR solutions that bring your vision to life with "
 "immersive technology and unparalleled experiences."
 msgstr ""
+"Погрузитесь в передовые VR-решения, которые воплощают ваши идеи с помощью "
+"иммерсивных технологий и уникальных впечатлений."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_empowerment
 msgid "Driving progress<br/>with QuantumTech Industries"
-msgstr ""
+msgstr "Движем прогресс вперед<br/>вместе с QuantumTech Industries"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_cta_box
 msgid "Each time slot includes a 1h discovery period.<br/><br/>"
-msgstr ""
+msgstr "Каждый временной слот включает 1 час для ознакомления.<br/><br/>"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_cards_grid
 msgid "Elevate Your Gaming Experience"
-msgstr ""
+msgstr "Выведите свой игровой опыт на новый уровень"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_cards_grid
@@ -250,6 +275,8 @@ msgid ""
 "Lightweight, adjustable, and crafted to fit perfectly, our VR headsets let "
 "you stay immersed for longer."
 msgstr ""
+"Наслаждайтесь долгими VR-сессиями в удобных шлемах. Они легкие, регулируемые "
+"и позволяют вам дольше оставаться в виртуальном мире."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_features_wall
@@ -257,21 +284,23 @@ msgid ""
 "Equip yourself with the latest in VR hardware and accessories, ensuring top "
 "performance and an exceptional user experience."
 msgstr ""
+"Оснастите себя новейшим VR-оборудованием и аксессуарами, обеспечивая "
+"высочайшую производительность и исключительный пользовательский опыт."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_key_images
 msgid "Experience Cutting-Edge VR Solutions for Every Need"
-msgstr ""
+msgstr "Оцените передовые VR-решения для любых задач"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_images_mosaic
 msgid "Experience Our VR Innovations"
-msgstr ""
+msgstr "Оцените наши VR-инновации"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_freegrid
 msgid "Experience VR"
-msgstr ""
+msgstr "Погрузитесь в VR"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_picture
@@ -281,7 +310,7 @@ msgstr "Познайте новый мир"
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_unveil
 msgid "Experience new realities"
-msgstr ""
+msgstr "Испытайте новые реальности"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_striped_center_top
@@ -289,6 +318,8 @@ msgid ""
 "Experience the future with immersive virtual reality solutions that "
 "transform how you interact with technology and the world."
 msgstr ""
+"Ощутите будущее с иммерсивными VR-решениями, которые преобразуют ваше "
+"взаимодействие с технологиями и миром."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
@@ -296,21 +327,23 @@ msgid ""
 "Expert advice on implementing VR technology, including feasibility studies, "
 "strategy development, and technology recommendations."
 msgstr ""
+"Экспертные консультации по внедрению VR-технологий, включая анализ "
+"осуществимости, разработку стратегии и рекомендации по технологиям."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_wavy_grid
 msgid "Expertise and Creativity"
-msgstr ""
+msgstr "Экспертность и креативность"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_quadrant
 msgid "Explore VR"
-msgstr ""
+msgstr "Откройте для себя VR"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_cards_grid
 msgid "Explore Virtual Worlds"
-msgstr ""
+msgstr "Откройте виртуальные миры"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_carousel_intro
@@ -318,6 +351,8 @@ msgid ""
 "Explore more and find VR solutions tailored to your needs, crafted for "
 "immersive engagement and transformative impact."
 msgstr ""
+"Найдите VR-решения, которые подходят именно вам, чтобы получить полное "
+"погружение и преображающий опыт."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_freegrid
@@ -326,11 +361,13 @@ msgid ""
 "transform the way you experience and interact with technology. Dive into the"
 " future with immersive VR experiences."
 msgstr ""
+"Изучите новые измерения с нашими VR-решениями. Они изменят ваше восприятие "
+"технологий и то, как вы с ними взаимодействуете."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_images_mosaic
 msgid "Explore our cutting-edge VR solutions and immersive experiences."
-msgstr ""
+msgstr "Откройте для себя наши передовые VR-решения и иммерсивный опыт."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
@@ -338,16 +375,20 @@ msgid ""
 "Explore our cutting-edge virtual reality solutions designed to enhance user "
 "experiences and transform digital interactions."
 msgstr ""
+"Наши передовые VR-решения созданы, чтобы поднять пользовательский опыт на "
+"новый уровень и преобразить цифровое взаимодействие."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_empowerment
 msgid "Explore our tech solution   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
 msgstr ""
+"Откройте для себя наше IT-решение <i class=\"fa fa-long-arrow-right\" role="
+"\"img\"/>"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_carousel_intro
 msgid "Explore the virtual world"
-msgstr ""
+msgstr "Исследуйте виртуальный мир"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_media_list
@@ -388,11 +429,13 @@ msgid ""
 "Hands-on training and workshops to equip your team with the skills needed to"
 " effectively use and manage VR technology."
 msgstr ""
+"Практическое обучение и мастер-классы для вашей команды – навыки "
+"эффективного использования и управления VR-технологиями."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_key_images
 msgid "Immerse Yourself in Virtual Reality"
-msgstr ""
+msgstr "Погрузитесь в виртуальную реальность"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_card_offset
@@ -401,26 +444,29 @@ msgid ""
 "reality technology. We provide tools and solutions that redefine how you "
 "interact with the digital world."
 msgstr ""
+"Откройте мир возможностей с нашей передовой VR-технологией. Мы создаем "
+"инструменты и решения, которые меняют ваше взаимодействие с цифровым "
+"пространством."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_wavy_grid
 msgid "Immersive Experiences"
-msgstr ""
+msgstr "Виртуальная реальность"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_features_wall
 msgid "Immersive VR Experiences"
-msgstr ""
+msgstr "Иммерсивный VR-опыт"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_carousel_intro
 msgid "Immersive VR experiences"
-msgstr ""
+msgstr "Иммерсивный VR-опыт"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_key_images
 msgid "Innovative solutions for businesses and education"
-msgstr ""
+msgstr "Инновационные решения для бизнеса и образования"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
@@ -428,6 +474,8 @@ msgid ""
 "Installation and configuration of VR hardware, ensuring optimal performance "
 "and compatibility with your VR applications."
 msgstr ""
+"Установка и настройка VR-оборудования, обеспечивающие оптимальную "
+"производительность и совместимость с вашими VR-приложениями."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_color_blocks_2
@@ -457,7 +505,7 @@ msgstr "Количество контроллеров"
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "Our VR Services"
-msgstr ""
+msgstr "Наши VR-услуги"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_key_benefits
@@ -465,11 +513,13 @@ msgid ""
 "Our dedicated support team is available around the clock to ensure your "
 "systems run smoothly and any issues are quickly resolved."
 msgstr ""
+"Наша поддержка доступна круглосуточно, чтобы ваши системы работали стабильно "
+"и все вопросы решались оперативно."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_empowerment
 msgid "Our products"
-msgstr ""
+msgstr "Наши продукты"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_picture
@@ -482,17 +532,17 @@ msgstr ""
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_wavy_grid
 msgid "Quality and Innovation"
-msgstr ""
+msgstr "Качество и инновации"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_cta_box
 msgid "Ready to explore?<br/>Book your time slot now"
-msgstr ""
+msgstr "Готовы к приключениям?<br/>Забронируйте время"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_striped_center_top
 msgid "Reality redefined with VR"
-msgstr ""
+msgstr "Виртуальная реальность меняет реальность"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_cards_grid
@@ -501,11 +551,14 @@ msgid ""
 " collaborate in virtual environments, and connect with colleagues from "
 "around the globe in a more engaging way."
 msgstr ""
+"Выведите свою удаленную работу на новый уровень с помощью наших VR-шлемов. "
+"Проводите встречи и сотрудничайте с коллегами по всему миру более "
+"увлекательно и эффективно."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_empowerment
 msgid "Request a demo"
-msgstr ""
+msgstr "Запросить демо"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_carousel_intro
@@ -513,36 +566,38 @@ msgid ""
 "Revolutionize your projects with our bespoke VR creations and expert "
 "insights."
 msgstr ""
+"Революционизируйте свои проекты с нашими индивидуальными VR-разработками и "
+"экспертными знаниями."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "Starting at $1,200"
-msgstr ""
+msgstr "Стоимость от 1 200 $"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "Starting at $1,500"
-msgstr ""
+msgstr "Стоимость от 1 500 $"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "Starting at $10,000"
-msgstr ""
+msgstr "Стоимость от 10 000 $"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "Starting at $2,500"
-msgstr ""
+msgstr "Стоимость от 2 500 $"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "Starting at $4,000"
-msgstr ""
+msgstr "Стоимость от 4 000 $"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "Starting at $8,000"
-msgstr ""
+msgstr "Стоимость от 8 000 $"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_key_benefits
@@ -550,16 +605,19 @@ msgid ""
 "Stay ahead with our latest advancements and technologies designed to give "
 "you a competitive edge in the ever-evolving tech landscape."
 msgstr ""
+"Используйте наши последние достижения и технологии, чтобы получить "
+"конкурентное преимущество и быть на шаг впереди в постоянно меняющемся "
+"технологическом ландшафте."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_freegrid
 msgid "Step into the Future with Virtual Reality"
-msgstr ""
+msgstr "Сделайте шаг в будущее с виртуальной реальностью"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_card_offset
 msgid "Step into the future today."
-msgstr ""
+msgstr "Сделайте шаг в будущее уже сегодня."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_quadrant
@@ -568,12 +626,15 @@ msgid ""
 "gaming to business applications, VR is transforming how we interact with the"
 " digital world.<br/><br/> Experience the next level of technology with us."
 msgstr ""
+"Сделайте шаг в будущее с нашими иммерсивными VR-решениями. От игр до бизнеса "
+"– VR меняет способ нашего взаимодействия с цифровым миром.<br/><br/> Ощутите "
+"следующий уровень технологий с нами."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_unveil
 msgid ""
 "Step into worlds beyond imagination with our cutting-edge VR experiences."
-msgstr ""
+msgstr "Наш передовой VR-опыт перенесет вас в миры за гранью воображения."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_numbers
@@ -585,7 +646,7 @@ msgstr "Объем памяти (ГБ)"
 msgid ""
 "Tailor virtual reality applications to meet your specific needs, whether for"
 " gaming, training, or business applications."
-msgstr ""
+msgstr "Создание индивидуальных VR-приложений для игр, обучения или бизнеса."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
@@ -593,6 +654,9 @@ msgid ""
 "Tailored VR applications developed to meet your specific needs, featuring "
 "interactive environments and immersive experiences."
 msgstr ""
+"Индивидуальные VR-приложения, разработанные для удовлетворения ваших "
+"конкретных потребностей, с интерактивными средами и иммерсивными "
+"впечатлениями."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_features
@@ -621,6 +685,8 @@ msgid ""
 "immersive technology meets creativity. Elevate your reality with experiences"
 " that blend innovation and interactivity seamlessly."
 msgstr ""
+"Прокачайте свою реальность с нашими VR-решениями. Здесь иммерсивные "
+"технологии сочетаются с креативностью, чтобы преобразить ваш цифровой опыт."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_cards_grid
@@ -629,26 +695,29 @@ msgid ""
 "action, engage with realistic environments, and take your gaming to the next"
 " level with our state-of-the-art technology."
 msgstr ""
+"Ощутите полное погружение в игру с нашими VR-шлемами. Благодаря передовым "
+"технологиям вы сможете взаимодействовать с реалистичными мирами и вывести "
+"свой геймплей на новый уровень."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_key_images
 msgid "Transformative applications for entertainment and beyond"
-msgstr ""
+msgstr "Трансформирующие приложения для развлечений и других сфер"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_carousel_intro
 msgid "Transforming reality with VR innovation"
-msgstr ""
+msgstr "Преобразуем реальность с помощью VR-инноваций"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_cards_grid
 msgid "Ultimate Comfort and Design"
-msgstr ""
+msgstr "Максимальный комфорт и дизайн"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_cards_grid
 msgid "Unlock a World of Possibilities"
-msgstr ""
+msgstr "Откройте мир новых возможностей"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_media_list
@@ -665,27 +734,27 @@ msgstr ""
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "VR Consulting Services"
-msgstr ""
+msgstr "VR-консалтинг"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "VR Content Creation"
-msgstr ""
+msgstr "Создание VR-контента"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "VR Experience Design"
-msgstr ""
+msgstr "Проектирование VR-опыта"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "VR Hardware Setup"
-msgstr ""
+msgstr "Установка VR-оборудования"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "VR Training and Workshops"
-msgstr ""
+msgstr "VR-обучение и мастер-классы"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_three_columns
@@ -699,22 +768,22 @@ msgstr ""
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_cards_grid
 msgid "Virtual Collaboration and Meetings"
-msgstr ""
+msgstr "Виртуальное сотрудничество и встречи"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_quadrant
 msgid "Virtual Reality"
-msgstr ""
+msgstr "Виртуальная реальность"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_card_offset
 msgid "Virtual Reality: Redefining Experience"
-msgstr ""
+msgstr "Виртуальная реальность: новый подход"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_striped_center_top
 msgid "Virtual Reality: The Future of Technology"
-msgstr ""
+msgstr "Виртуальная реальность: будущее технологий"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_picture
@@ -732,6 +801,9 @@ msgid ""
 "with you to ensure engaging and innovative virtual environments from concept"
 " to execution."
 msgstr ""
+"Мы создаем персонализированный VR-опыт, который полностью погружает в "
+"виртуальную реальность. Наша команда разрабатывает захватывающие виртуальные "
+"миры – от идеи до готового продукта."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_key_benefits
@@ -739,6 +811,8 @@ msgid ""
 "We develop tailored technology solutions that address your unique "
 "challenges, driving innovation and efficiency."
 msgstr ""
+"Мы разрабатываем индивидуальные технологические решения для ваших задач, "
+"повышая инновационность и эффективность."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_media_list
@@ -758,11 +832,13 @@ msgid ""
 "We provide cutting-edge VR content and interactive solutions. Leveraging the"
 " latest advancements, we help you create unforgettable virtual experiences."
 msgstr ""
+"Мы создаем передовой VR-контент и интерактивные решения. Используя новейшие "
+"достижения, мы помогаем создавать незабываемый виртуальный опыт."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_wavy_grid
 msgid "What we create for our clients"
-msgstr ""
+msgstr "Что мы создаем для наших клиентов"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_wavy_grid
@@ -771,6 +847,9 @@ msgid ""
 " push the boundaries of virtual reality and keep you at the forefront of the"
 " industry."
 msgstr ""
+"Благодаря обширному опыту и глубокой экспертизе в VR, мы предлагаем решения, "
+"которые расширяют границы виртуальной реальности и сохраняют ваше лидерство "
+"в отрасли."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_text_image
@@ -792,18 +871,20 @@ msgid ""
 "Your satisfaction is our goal. Our support team is always available, "
 "ensuring that your VR experience is seamless and impactful."
 msgstr ""
+"Мы стремимся к тому, чтобы вы были довольны. Наша служба поддержки всегда на "
+"связи, чтобы ваш VR-опыт был безупречным и запоминающимся."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_big_number
 msgid "satisfied clients"
-msgstr ""
+msgstr "довольные клиенты"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "✽  VR Consulting"
-msgstr ""
+msgstr "✽ VR-консалтинг"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "✽  VR Development"
-msgstr ""
+msgstr "✽ Разработка VR"
