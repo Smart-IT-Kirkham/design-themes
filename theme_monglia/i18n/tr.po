@@ -3,13 +3,14 @@
 # * theme_monglia
 #
 # "Tiffany Chang (tic)" <tic@odoo.com>, 2025.
+# Weblate <noreply-mt-weblate@weblate.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-01 12:59+0000\n"
-"PO-Revision-Date: 2025-09-18 02:51+0000\n"
-"Last-Translator: \"Tiffany Chang (tic)\" <tic@odoo.com>\n"
+"POT-Creation-Date: 2025-10-09 10:56+0000\n"
+"PO-Revision-Date: 2025-11-08 19:41+0000\n"
+"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Turkish <https://translate.odoo.com/projects/odoo-19/"
 "theme_monglia/tr/>\n"
 "Language: tr\n"
@@ -40,8 +41,8 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_quotes_carousel_minimal
 msgid ""
-"\" The festival was unforgettable. <br/>Vibrant, well-organized, and full of"
-" energy. \""
+"\" The festival was unforgettable. <br/>Vibrant, well-organized, and full of "
+"energy. \""
 msgstr ""
 "\"Festival unutulmazdı. <br/>Canlı, iyi organize edilmiş ve enerjisi "
 "yüksekti.\""
@@ -106,7 +107,8 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_big_number
 msgid ""
-"<font class=\"text-gradient\" style=\"background-image: linear-gradient(0deg, var(--o-color-1) 0%, var(--o-color-4) 75%);\">\n"
+"<font class=\"text-gradient\" style=\"background-image: linear-"
+"gradient(0deg, var(--o-color-1) 0%, var(--o-color-4) 75%);\">\n"
 "            250+\n"
 "        </font>"
 msgstr ""
@@ -133,11 +135,11 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_empowerment
 msgid ""
-"<i class=\"fa fa-fw fa-info-circle o_not-animable\" "
-"role=\"img\"/>  Memorable experiences"
+"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/"
+">  Memorable experiences"
 msgstr ""
-"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  "
-"Unutulmaz deneyimler"
+"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/"
+">  Unutulmaz deneyimler"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_cover
@@ -147,18 +149,18 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_cover
 msgid ""
-"<span class=\"display-5-fs\">24-26.06.2025 // Harleem, "
-"Netherlands<br/><br/></span>"
+"<span class=\"display-5-fs\">24-26.06.2025 // Harleem, Netherlands<br/><br/"
+"></span>"
 msgstr ""
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.configurator_s_text_block
 msgid ""
-"<span class=\"h3-fs\">Kori Thill / Chana / Smithwick Cira / Sherard Elfriede"
-" / Ogan Mariko / Yonker Bella Maday / Shaneka Wilkerson / Raina Planck / "
-"Micaela Labonte / Chadwick Cottman / Emile Hornung / Genevie Mehaffey / "
-"Dottie Hinkson / Mariah Nurse / Velda Caster / Rossie Cranfield / Iva Madrid"
-" / Flossie Freitas / Tina Gregerson / Quiana Tassin</span>"
+"<span class=\"h3-fs\">Kori Thill / Chana / Smithwick Cira / Sherard "
+"Elfriede / Ogan Mariko / Yonker Bella Maday / Shaneka Wilkerson / Raina "
+"Planck / Micaela Labonte / Chadwick Cottman / Emile Hornung / Genevie "
+"Mehaffey / Dottie Hinkson / Mariah Nurse / Velda Caster / Rossie Cranfield / "
+"Iva Madrid / Flossie Freitas / Tina Gregerson / Quiana Tassin</span>"
 msgstr ""
 
 #. module: theme_monglia
@@ -207,12 +209,12 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_company_team_shapes
 msgid ""
 "<span class=\"o_text_highlight o_translate_inline o_text_highlight_bold "
-"o_text_highlight_fill\" style=\"--text-highlight-width: 3px;\">Iris "
-"Joe</span>"
+"o_text_highlight_fill\" style=\"--text-highlight-width: 3px;\">Iris Joe</"
+"span>"
 msgstr ""
 "<span class=\"o_text_highlight o_translate_inline o_text_highlight_bold "
-"o_text_highlight_fill\" style=\"--text-highlight-width: 3px;\">Iris "
-"Joe</span>"
+"o_text_highlight_fill\" style=\"--text-highlight-width: 3px;\">Iris Joe</"
+"span>"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_company_team_shapes
@@ -240,12 +242,12 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_company_team_shapes
 msgid ""
 "<span class=\"o_text_highlight o_translate_inline o_text_highlight_bold_1 "
-"o_text_highlight_fill\" style=\"--text-highlight-width: 3px;\">Mich "
-"Stark</span>"
+"o_text_highlight_fill\" style=\"--text-highlight-width: 3px;\">Mich Stark</"
+"span>"
 msgstr ""
 "<span class=\"o_text_highlight o_translate_inline o_text_highlight_bold_1 "
-"o_text_highlight_fill\" style=\"--text-highlight-width: 3px;\">Mich "
-"Stark</span>"
+"o_text_highlight_fill\" style=\"--text-highlight-width: 3px;\">Mich Stark</"
+"span>"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_image_title
@@ -265,12 +267,15 @@ msgid ""
 "A premier arts festival showcasing contemporary art, installations, and "
 "performances from around the globe in the artistic city of Paris."
 msgstr ""
+"Paris’in sanatsal atmosferinde çağdaş sanat, enstalasyonlar ve dünyanın dört "
+"bir yanından katılımcıların performans sergilendiği seçkin bir sanat "
+"festivali."
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_cards_grid
 msgid ""
-"A refreshing mix of white rum, fresh mint, lime juice, and a splash of soda,"
-" perfect for a vibrant, tropical flavor that dances on the palate."
+"A refreshing mix of white rum, fresh mint, lime juice, and a splash of soda, "
+"perfect for a vibrant, tropical flavor that dances on the palate."
 msgstr ""
 
 #. module: theme_monglia
@@ -286,6 +291,9 @@ msgid ""
 "A vibrant music festival featuring top artists across genres, food trucks, "
 "and interactive art installations in the heart of Central Park."
 msgstr ""
+"Central Park’ın merkezinde farklı türlerden en iyi sanatçıları, yiyecek "
+"kamyonlarını ve interaktif sanat enstalasyonlarını bir araya getiren canlı "
+"bir müzik festivali."
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_cards_grid
@@ -309,6 +317,8 @@ msgid ""
 "An enchanting celebration of jazz and blues music with performances by "
 "renowned artists, workshops, and street parades in the heart of New Orleans."
 msgstr ""
+"New Orleans’ın kalbinde ünlü sanatçıların performansları, atölyeler ve sokak "
+"geçit törenleriyle caz ve blues müziğinin büyüleyici bir kutlaması."
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
@@ -322,7 +332,7 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "August 15-17, 2024"
-msgstr ""
+msgstr "15–17 Ağustos 2024"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_cards_grid
@@ -340,6 +350,8 @@ msgid ""
 "Celebrate cinema with screenings of international films, director Q&amp;A "
 "sessions, and red carpet events at this prestigious film festival."
 msgstr ""
+"Bu prestijli film festivalinde uluslararası film gösterimleri, yönetmenlerle "
+"söyleşiler ve kırmızı halı etkinlikleriyle sinemayı kutlayın."
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_unveil
@@ -354,7 +366,7 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "Central Park, New York"
-msgstr ""
+msgstr "Central Park, New York"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_features_wall
@@ -388,7 +400,7 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "Cultural Heritage Festival"
-msgstr ""
+msgstr "Kültürel Miras Festivali"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_features_wall
@@ -398,7 +410,7 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "December 1-3, 2024"
-msgstr ""
+msgstr "1–3 Aralık 2024"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_images_mosaic
@@ -414,7 +426,7 @@ msgstr ""
 #. module: theme_monglia
 #: model:ir.model.fields,field_description:theme_monglia.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "İsim Göster"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_media_list
@@ -482,7 +494,8 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_cta_box
 msgid ""
-"Experience an unforgettable weekend of live music, fun, and entertainment with performances from some of the best artists.<br/><br/>\n"
+"Experience an unforgettable weekend of live music, fun, and entertainment "
+"with performances from some of the best artists.<br/><br/>\n"
 "        Explore the schedule to make the most out of every moment.<br/><br/>"
 msgstr ""
 
@@ -492,6 +505,8 @@ msgid ""
 "Experience the excitement of our upcoming festivals with a diverse range of "
 "music, arts, and culture. Don’t miss out on these unforgettable events!"
 msgstr ""
+"Yaklaşan festivallerimizin heyecanını müzik, sanat ve kültürün geniş "
+"yelpazesiyle deneyimleyin. Bu unutulmaz etkinlikleri kaçırmayın!"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_quadrant
@@ -553,7 +568,7 @@ msgstr "Herkese hitap eden festival deneyimleri"
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_faq_collapse
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Sık Sorulan Sorular"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_cta_box
@@ -573,7 +588,7 @@ msgstr "Başla"
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "Global Film Festival"
-msgstr ""
+msgstr "Küresel Film Festivali"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_shape_image
@@ -583,7 +598,7 @@ msgstr ""
 #. module: theme_monglia
 #: model:ir.model.fields,field_description:theme_monglia.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_carousel_intro
@@ -602,12 +617,12 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "International Art Expo"
-msgstr ""
+msgstr "Uluslararası Sanat Fuarı"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "Jazz &amp; Blues Gala"
-msgstr ""
+msgstr "Caz ve Blues Galası"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_carousel_intro
@@ -617,7 +632,7 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "July 10-12, 2024"
-msgstr ""
+msgstr "10–12 Temmuz 2024"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_card_offset
@@ -642,12 +657,12 @@ msgstr "Martina Clarck"
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "New Orleans, Louisiana"
-msgstr ""
+msgstr "New Orleans, Louisiana"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "November 10-14, 2024"
-msgstr ""
+msgstr "10–14 Kasım 2024"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_references
@@ -657,7 +672,7 @@ msgstr "SPONSORLARIMIZ"
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "October 20-22, 2024"
-msgstr ""
+msgstr "20–22 Ekim 2024"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_media_list
@@ -688,7 +703,7 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "Paris, France"
-msgstr ""
+msgstr "Paris, Fransa"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_key_images
@@ -718,7 +733,7 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "Red Rocks Amphitheatre, Colorado"
-msgstr ""
+msgstr "Red Rocks Amfitiyatrosu, Colorado"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_key_images
@@ -728,7 +743,7 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "Rock On Festival"
-msgstr ""
+msgstr "Rock On Festivali"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_striped_center_top
@@ -738,11 +753,12 @@ msgstr "Geceye Lezzet Katın: Yemek, Eğlence ve Müzik"
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_empowerment
 msgid "Schedule a call"
-msgstr ""
+msgstr "Telefon görüşmesi planlayın"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_empowerment
-msgid "See our event highlights   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
+msgid ""
+"See our event highlights   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
 msgstr ""
 "Etkinlik öne çıkanlarını görüntüleyin   <i class=\"fa fa-long-arrow-right\" "
 "role=\"img\"/>"
@@ -750,7 +766,7 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "September 5-7, 2024"
-msgstr ""
+msgstr "5–7 Eylül 2024"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_key_images
@@ -787,7 +803,7 @@ msgstr "Acılı Margarita"
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "Summer Music Fest"
-msgstr ""
+msgstr "Yaz Müzik Festivali"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_wavy_grid
@@ -834,16 +850,18 @@ msgid ""
 "Three days of electrifying rock performances at the iconic Red Rocks, with "
 "stunning views and a packed lineup of legendary bands."
 msgstr ""
+"Efsanevi gruplardan oluşan dolu dolu bir programla, ikonik Red Rocks’ta üç "
+"gün boyunca enerji dolu rock performansları; büyüleyici manzaralar eşliğinde."
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "Tokyo, Japan"
-msgstr ""
+msgstr "Tokyo, Japonya"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "Toronto, Canada"
-msgstr ""
+msgstr "Toronto, Kanada"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_features_wall
@@ -880,7 +898,7 @@ msgstr "Benzersiz Deneyimler"
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "Upcoming Festivals"
-msgstr ""
+msgstr "Yaklaşan Festivaller"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_cta_box
@@ -916,8 +934,8 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_shape_image
 msgid ""
 "We offer curated festival experiences tailored just for your group. Whether "
-"you're planning a special group celebration, a corporate outing, or a custom"
-" VIP experience, our team is here to elevate your time at the festival. Let "
+"you're planning a special group celebration, a corporate outing, or a custom "
+"VIP experience, our team is here to elevate your time at the festival. Let "
 "us handle all the details while you focus on enjoying the event, with "
 "exclusive access, personalized itineraries, and premium amenities."
 msgstr ""
@@ -947,9 +965,8 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_wavy_grid
 msgid ""
-"Your enjoyment is our goal. Our dedicated staff is always on hand to provide"
-" support, ensuring a smooth and environmentally friendly festival "
-"experience."
+"Your enjoyment is our goal. Our dedicated staff is always on hand to provide "
+"support, ensuring a smooth and environmentally friendly festival experience."
 msgstr ""
 
 #. module: theme_monglia
@@ -960,9 +977,9 @@ msgstr "düzenlenen etkinlikler"
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "✽  Arts &amp; Culture Festivals"
-msgstr ""
+msgstr "✽  Sanat ve Kültür Festivalleri"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "✽  Music Festivals"
-msgstr ""
+msgstr "✽  Müzik Festivalleri"
