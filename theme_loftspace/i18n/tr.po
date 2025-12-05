@@ -3,13 +3,15 @@
 # * theme_loftspace
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
+# DeepL <noreply-mt-deepl@weblate.org>, 2025.
+# "Malaz Siddig Elsayed Abuidris (msea)" <msea@odoo.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-09 10:56+0000\n"
-"PO-Revision-Date: 2025-11-08 19:41+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2025-11-29 19:40+0000\n"
+"Last-Translator: \"Malaz Siddig Elsayed Abuidris (msea)\" <msea@odoo.com>\n"
 "Language-Team: Turkish <https://translate.odoo.com/projects/odoo-19/"
 "theme_loftspace/tr/>\n"
 "Language: tr\n"
@@ -17,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_quotes_carousel_minimal
@@ -125,6 +127,8 @@ msgid ""
 "<a href=\"#\" class=\"btn btn-secondary btn-lg me-2 mb-2 "
 "o_translate_inline\">Our services</a>"
 msgstr ""
+"<a href=\"#\" class=\"btn btn-secondary btn-lg me-2 mb-2 o_translate_inline\""
+">Hizmetlerimiz</a>"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_title
@@ -155,6 +159,11 @@ msgid ""
 "personal style. Discover how our quality furnishings can make your home both "
 "beautiful and comfortable.<br/><br/>"
 msgstr ""
+"<br/>Şıklığı ve işlevselliği bir araya getiren seçkin mobilya "
+"koleksiyonumuzla evinizi dönüştürün. Çağdaş tasarımlardan zamansız "
+"klasiklere kadar, yaşam alanlarınızı yükselten ve kişisel tarzınızı yansıtan "
+"parçalar sunuyoruz. Kaliteli mobilyalarımızın evinizi nasıl hem güzel hem de "
+"konforlu hale getirebileceğini keşfedin.<br/><br/>"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_empowerment
@@ -178,7 +187,7 @@ msgstr "Huş Ağacı Tabure"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cover
 msgid "Bringing life to your interior"
-msgstr ""
+msgstr "İç mekanınıza hayat katın"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_freegrid
@@ -209,7 +218,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_benefits
 msgid "Comprehensive Support"
-msgstr ""
+msgstr "Kapsamlı Destek"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_carousel_intro
@@ -232,6 +241,10 @@ msgid ""
 "home interiors. Combining comfort and style, our collections are made to "
 "transform your home.<br/><br/> Find your inspiration here."
 msgstr ""
+"Ustalıkla tasarlanmış mobilyalarımız ve ev iç mekanlarımızla mükemmel bir "
+"yaşam alanı yaratın. Konfor ve stili bir araya getiren koleksiyonlarımız "
+"evinizi dönüştürmek için tasarlandı.<br/><br/> İlhamınızı burada "
+"bulabilirsiniz."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
@@ -250,7 +263,7 @@ msgstr "Özel Tasarım Ürünler"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_wavy_grid
 msgid "Custom Furniture Solutions"
-msgstr ""
+msgstr "Özel Mobilya Çözümleri"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cards_grid
@@ -271,16 +284,21 @@ msgid ""
 "beauty and practicality. Each piece reflects our dedication to craftsmanship "
 "and functionality, making your home more elegant and functional."
 msgstr ""
+"Tasarım İnovasyon, aile tarafından işletilen mobilya şirketimizde işlevle "
+"buluşuyor ve her tasarım, en yeni stili pratik kullanılabilirlikle "
+"harmanlıyor. Taahhüdümüz, yaşam alanlarınızı hem güzellik hem de pratiklikle "
+"geliştiren tasarımlar sunmaktır. Her bir parça, işçilik ve işlevselliğe olan "
+"bağlılığımızı yansıtarak evinizi daha zarif ve işlevsel hale getirir."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.configurator_s_text_block
 msgid "Design innovation<br/>meeting function"
-msgstr ""
+msgstr "Tasarım yeniliği<br/>toplantı işlevi"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features_wall
 msgid "Detailed Project Management"
-msgstr ""
+msgstr "Detaylı Proje Yönetimi"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cover
@@ -318,7 +336,7 @@ msgstr "Sizin için seçilmiş benzersiz mobilya parçalarımızı keşfedin."
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_split_intro
 msgid "Discover our<br/>stylish furniture"
-msgstr ""
+msgstr "<br/>şık mobilyalarımızı keşfedin"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_benefits
@@ -342,7 +360,7 @@ msgstr "İsim Göster"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
 msgid "Dresser with Mirror"
-msgstr ""
+msgstr "Aynalı Şifonyer"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_striped_center_top
@@ -352,12 +370,12 @@ msgstr "Her parçada zarafet"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_card_offset
 msgid "Elegant Furniture for Modern Living"
-msgstr ""
+msgstr "Modern Yaşam için Şık Mobilyalar"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_striped_center_top
 msgid "Elegant Furniture for a Stylish Home"
-msgstr ""
+msgstr "Şık Bir Ev İçin Zarif Mobilyalar"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -365,6 +383,8 @@ msgid ""
 "Elegant coffee table with a clear glass top and chrome legs, adding a touch "
 "of sophistication to your living room."
 msgstr ""
+"Şeffaf cam tablalı ve krom ayaklı zarif sehpa, oturma odanıza sofistike bir "
+"dokunuş katar."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -438,6 +458,9 @@ msgid ""
 "Experience the ultimate in comfort and durability with our handmade "
 "furniture, meticulously crafted from premium materials for a timeless appeal."
 msgstr ""
+"Zamansız bir çekicilik için birinci sınıf malzemelerden titizlikle üretilen "
+"el yapımı mobilyalarımızla en üst düzeyde konfor ve dayanıklılığı "
+"deneyimleyin."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_carousel_intro
@@ -477,7 +500,7 @@ msgstr "$100 üzeri ücretsiz kargo"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_faq_collapse
 msgid "Frequently asked question"
-msgstr ""
+msgstr "Sıkça sorulan sorular"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -491,7 +514,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_striped_center_top
 msgid "Furnish Your Home"
-msgstr ""
+msgstr "Evinizi Döşeyin"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_carousel_intro
@@ -506,12 +529,12 @@ msgstr "Generation<br/>Furniture Co."
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
 msgid "Get your furniture delivered quickly."
-msgstr ""
+msgstr "Mobilyalarınızı hızlı bir şekilde teslim alın."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
 msgid "Glass Coffee Table"
-msgstr ""
+msgstr "Cam Sehpa"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cards_grid
@@ -531,12 +554,12 @@ msgstr "ID"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_wavy_grid
 msgid "Innovation and Design"
-msgstr ""
+msgstr "İnovasyon ve Tasarım"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features_wall
 msgid "Innovative Design Solutions"
-msgstr ""
+msgstr "Yenilikçi Tasarım Çözümleri"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_quotes_carousel
@@ -561,7 +584,7 @@ msgstr "Modern Kanepe"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
 msgid "New in Store"
-msgstr ""
+msgstr "Mağazada Yeni"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -571,7 +594,7 @@ msgstr "Komodin"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_images
 msgid "Oakridge Dining Set"
-msgstr ""
+msgstr "Oakridge Yemek Takımı"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
@@ -581,7 +604,7 @@ msgstr "Sipariş Takibi"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
 msgid "Our Furniture Collection"
-msgstr ""
+msgstr "Mobilya Koleksiyonumuz"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_images_mosaic
@@ -594,6 +617,9 @@ msgid ""
 "Our expert designers collaborate with you to create furniture that meets "
 "your exact needs, ensuring every piece complements your home's aesthetic."
 msgstr ""
+"Uzman tasarımcılarımız, ihtiyaçlarınızı tam olarak karşılayan mobilyalar "
+"oluşturmak için sizinle işbirliği yapar ve her parçanın evinizin estetiğini "
+"tamamlamasını sağlar."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_benefits
@@ -601,26 +627,28 @@ msgid ""
 "Our team is here to assist you from selection to delivery, ensuring a "
 "seamless experience and satisfaction with every purchase."
 msgstr ""
+"Ekibimiz, seçimden teslimata kadar size yardımcı olmak ve her satın alma "
+"işleminde sorunsuz bir deneyim ve memnuniyet sağlamak için burada."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cards_grid
 msgid "Personalized Interior Solutions"
-msgstr ""
+msgstr "Kişiselleştirilmiş İç Mekan Çözümleri"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_wavy_grid
 msgid "Quality and Craftsmanship"
-msgstr ""
+msgstr "Kalite ve İşçilik"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
 msgid "Queen Bed Frame"
-msgstr ""
+msgstr "Kraliçe Karyola"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_freegrid
 msgid "Redefine Your Space with Elegant Furniture"
-msgstr ""
+msgstr "Zarif Mobilyalar ile Mekanınızı Yeniden Tanımlayın"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_card_offset
@@ -630,7 +658,7 @@ msgstr "Yaşam alanınızı yeniden tanımlayın."
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_empowerment
 msgid "Request a quote"
-msgstr ""
+msgstr "Fiyat teklifi isteyin"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_quotes_carousel
@@ -663,7 +691,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features_wall
 msgid "Sustainable Building Practices"
-msgstr ""
+msgstr "Sürdürülebilir Bina Uygulamaları"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_wavy_grid
@@ -705,7 +733,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
 msgid "Track your order in real-time, anytime."
-msgstr ""
+msgstr "Siparişinizi istediğiniz zaman gerçek zamanlı olarak takip edin."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_card_offset
@@ -714,6 +742,9 @@ msgid ""
 "and functionality, our pieces are crafted to enhance the beauty and comfort "
 "of any space."
 msgstr ""
+"Seçkin mobilya koleksiyonumuzla evinizi dönüştürün. Stil ve işlevselliği bir "
+"araya getiren parçalarımız, her alanın güzelliğini ve konforunu artırmak "
+"için üretilmiştir."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_freegrid
@@ -722,6 +753,9 @@ msgid ""
 "We offer a curated selection of pieces that blend style, comfort, and "
 "functionality to enhance your living spaces."
 msgstr ""
+"Sofistike mobilya ve iç tasarımlarımızla evinizi dönüştürün. Yaşam "
+"alanlarınızı güzelleştirmek için stil, konfor ve işlevselliği harmanlayan "
+"seçkin parçalar sunuyoruz."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_unveil
@@ -734,6 +768,8 @@ msgid ""
 "Transform your living space with bespoke furniture pieces, crafted to "
 "reflect your unique style and fit perfectly in any room."
 msgstr ""
+"Benzersiz tarzınızı yansıtmak ve her odaya mükemmel uyum sağlamak için "
+"hazırlanmış ısmarlama mobilya parçalarıyla yaşam alanınızı dönüştürün."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_image_title
@@ -742,6 +778,9 @@ msgid ""
 "meets functionality. Elevate your home with pieces that blend elegant design "
 "and quality craftsmanship seamlessly."
 msgstr ""
+"Tarzın işlevsellikle buluştuğu olağanüstü mobilya koleksiyonumuzla "
+"mekanınızı dönüştürün. Zarif tasarım ve kaliteli işçiliği kusursuz bir "
+"şekilde harmanlayan parçalarla evinizi yükseltin."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_carousel_intro
@@ -792,6 +831,9 @@ msgid ""
 "Our team works with you to ensure every piece fits perfectly into your space "
 "and lifestyle."
 msgstr ""
+"Benzersiz ihtiyaçlarınıza göre kişiselleştirilmiş mobilyalar tasarlıyor ve "
+"yaratıyoruz. Ekibimiz, her parçanın alanınıza ve yaşam tarzınıza mükemmel "
+"bir şekilde uymasını sağlamak için sizinle birlikte çalışır."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_benefits
@@ -809,6 +851,9 @@ msgid ""
 "Using cutting-edge techniques, we help you achieve a stylish and functional "
 "interior."
 msgstr ""
+"Mekanınızı geliştirmek için en son trendleri ve yenilikçi tasarımları "
+"sunuyoruz. En yeni teknikleri kullanarak şık ve işlevsel bir iç mekan elde "
+"etmenize yardımcı oluyoruz."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
@@ -818,7 +863,7 @@ msgstr "Size gece gündüz yardımcı olmak için buradayız."
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_wavy_grid
 msgid "What we offer to our clients"
-msgstr ""
+msgstr "Müşterilerimize ne sunuyoruz"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_three_columns
@@ -840,6 +885,11 @@ msgid ""
 "item is thoughtfully designed to meet your needs while adding a touch of "
 "elegance to your home."
 msgstr ""
+"Mobilya üretiminde zengin bir aile mirasına sahip olarak, yenilikçi tasarım "
+"ve günlük işlevselliği bir araya getiriyoruz. Odak noktamız, sadece çarpıcı "
+"görünmekle kalmayıp aynı zamanda pratik amaçlara da hizmet eden parçalar "
+"üretmektir. Her bir ürün, evinize şık bir dokunuş katarken ihtiyaçlarınızı "
+"karşılamak için özenle tasarlanmıştır."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_wavy_grid
@@ -862,21 +912,24 @@ msgid ""
 "ensuring you receive high-quality, eco-friendly furniture that complements "
 "your home."
 msgstr ""
+"Memnuniyetiniz bizim önceliğimizdir. Uzmanlarımız her zaman size yardımcı "
+"olmaya hazırdır ve evinizi tamamlayan yüksek kaliteli, çevre dostu "
+"mobilyalar almanızı sağlar."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_big_number
 msgid "satisfied clients"
-msgstr ""
+msgstr "memnun müşteri̇ler"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.configurator_s_text_block
 msgid "⎯ &amp;nbsp;OUR PHILOSOPHY"
-msgstr ""
+msgstr "⎯ &amp;nbsp;FELSEFEMIZ"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
 msgid "✽  Bedroom Furniture"
-msgstr ""
+msgstr "✽ Yatak Odası Mobilyaları"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
